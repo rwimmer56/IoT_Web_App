@@ -1,0 +1,725 @@
+ID,Latin_Name,Common_Name,Plant_Type,Bloom_Time,Size_at_Maturity,Suitable_Site_Conditions,Soil_Type,Water_Needs,Appropriate_Location,Additional_Characteristices_Notes,Humidity_Level_Min,Humidity_Level_Max,Temperature_Level_Min,Temperature_Level_Max,Water_Level_Min,Water_Level_Max,Light_Level_Min,Light_Level_Max
+0,Acacia baileyana 'Purpurea',Purple-Leaf Acacia,Tree (evergreen),Spring,> 24 ft,Sun,,Low,Sidewalk,"Fast grower, high maintenance.",17,64,17,30,100,350,500,800
+1,Acer buergeranum,Trident Maple,Tree (deciduous),Spring,13-24 ft,Sun;Part Shade,,Low,Sidewalk,"Prefers heat, wind protection.",7,65,15,26,100,350,350,800
+2,Acer macrophyllum,Bigleaf Maple,Tree (deciduous),Spring,> 24 ft,Sun;Shade,Clay;Loam;Sand;Rock,Moderate,Garden,Provides shelter for wildlife,28,85,17,25,350,600,0,750
+3,Acer negundo,Box Elder,Tree (deciduous),Spring,> 24 ft,Sun;Shade,Clay;Loam;Sand;Rock,Moderate,Garden,Withstands wind.,6,77,19,40,350,600,0,750
+4,Acer rubrum,Red Maple,Tree (deciduous),Spring,> 24 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Sidewalk,"Prefers heat, wind protection",1,62,18,33,350,600,350,800
+5,Achillea millefolium,Yarrow,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,"Recommended.  Travels by runners, self sowing, and can go anywhere.",14,74,18,35,0,0,350,800
+6,Acmispon glaber,Deerweed,Perennial,Spring;Summer,1-3 ft,Sun,Clay;Loam;Sand;Rock,None,Garden;Roof,"Practical and attractive plant. Attracts Black-tailed jackrabbit, Grey Hairstreak (Strymon melinus), and Green Hairstreak (Callophrys viridis) butterflies. Grows in disturbed soil.",16,67,18,28,0,0,500,800
+7,Aesculus californica,California Buckeye,Tree (deciduous),Summer,13-24 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden,Recommended where there is space (ie: Palou Phelps park).  Attracts Western Tiger Swallowtail (Papilio rutulus) butterfly.,7,75,11,38,0,0,350,800
+8,Aesculus x carnea,Red Horsechestnut,Tree (deciduous),,> 24 ft,Sun;Part Shade,,Low,Sidewalk,gets windburn easily in summer even in protected sites.,9,60,15,39,100,350,350,800
+9,Agonis flexuosa,Peppermint Tree,Tree (evergreen),Summer,> 24 ft,Sun,Clay;Loam,None,Sidewalk,Fast grower that requires extra tree care.,8,89,20,29,0,0,500,800
+10,Agonis flexuosa  'After Dark',After Dark Peppermint Tree,Tree (evergreen),,> 24 ft,Sun,,None,Sidewalk,‘After Dark’ is a fast grower that requires extra tree care.,12,52,13,24,100,350,500,800
+11,Alcea rosea,Hollyhock,Perennial,Summer,7-12 ft,Sun,Loam;Sand,Low,Garden,Attracts West Coast Painted Lady (Vanessa annabella) butterfly.,18,82,14,36,100,350,500,800
+12,Alnus rhombifolia,White Alder,Tree (deciduous),Fall,> 24 ft,Sun;Shade,Clay;Loam;Sand;Rock,Moderate,Garden,Streamside plant.,27,82,10,20,350,600,0,750
+13,Amelanchier spp.,Western Service Berry,Shrub (deciduous),Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Rock,Low,Garden,,4,54,20,21,100,350,350,800
+14,Amsinckia spectabilis,Coast Fiddleneck,Perennial,Spring,1-3 ft,Sun,Clay;Loam;Sand;Rock,None,Garden;Roof,Easy to grow from seed. Attracts Painted Lady (Vanessa cardui) butterfly.,13,90,9,29,0,0,500,800
+15,Anaphalis margaritacea,Pearly Everlasting,Perennial,Summer,1-3 ft,Sun,Clay;Loam;Sand;Rock,None,Garden;Roof,"Recommended root runner plant (also gumplant, goldenrod, dudleya). Attracts American Lady (Vanessa virginensis) and Painted Lady (Vanessa cardui) butterflies.",23,65,15,39,0,0,500,800
+16,Angelica hendersonii,Coast Angelica,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden,"Recommended. Big robust leaves, but not weedy. Attracts Anise swallowtail (Papilio zelicaon) butterfly.",5,100,20,27,0,0,350,800
+17,Aquilegia formosa,Western Columbine,Perennial,Spring,< 1 ft,Sun;Part Shade,Clay;Loam;Rock,Low,Garden;Roof,Attracts Anna's Hummingbird.,5,85,10,29,100,350,350,800
+18,Arbutus menziesii,Madrone,Tree (evergreen),Spring,> 24 ft,Sun;Shade,Clay;Loam;Rock,Low,Garden,Peeling red bark.,8,63,9,22,100,350,0,750
+19,Arbutus x 'Marina',Marina Strawberry Tree,Tree (evergreen),Fall;Winter,13-24 ft,Sun,,Low,Sidewalk,Fruit drop can range from low volume to significant.,19,95,19,24,100,350,500,800
+20,Aristolochia californica,Dutchman's Pipevine,Vine,Spring;Winter,> 24 ft,Sun;Part Shade,Clay;Loam,Low,Garden,Slow grower. Attracts Pipe Vine Swallowtail (Battus philenor).,14,93,16,37,100,350,350,800
+21,Armeria maritima var. californica,Sea Thrift,Perennial,Summer,1-3 ft,Sun,Loam;Rock;Sand,None,Garden;Sidewalk;Roof,"Not recommended for east side planting (strictly sand dune plant), may need additional moisture in a garden environment. Attracts Green Hairstreak (Callophrys viridis).",1,66,17,33,350,600,500,800
+22,Artemisia californica,California Sagebrush,Shrub (evergreen),Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,Resilient and good visual. Attracts Nutall's White-Crowned Sparrow (Zonotrichia leucophrys nuttalli).,0,94,15,24,100,350,350,800
+23,Artemisia pycnocephala,Dune Sagewort,Shrub (evergreen),Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,"Excellent visually, but limited to coastal sand dunes.",17,58,13,32,0,0,350,800
+24,Asarum caudatum,Wild Ginger,Perennial,Spring,< 1 ft,Part Shade;Shade,Clay;Loam,Moderate,Sidewalk;Garden,,22,68,20,37,350,600,0,350
+25,Asclepias fascicularis,Narrowleaf Milkweed,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,Low,Sidewalk;Garden,"Spreads easily, and may need confinement. Keep away from children/pets. Speciosa may be preferable. Attracts Monarch butterfly (Danaus plexippus).",24,53,15,37,100,350,350,800
+26,Cirsium occidentale var. occidentale,Cobweb Thistle,Perennial,Summer,1-3 ft,Sun,Clay;Loam,Low,Garden,"Very temperamental plant. Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies.",9,92,14,39,100,350,500,800
+27,Baccharis pilularis,Coyotebrush,Shrub (evergreen),Fall,7-12 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Sidewalk;Garden,"Amazing for wildlife. Attracts Western fence lizard, Nutall's White-crowned Sparrow, Gray Hairstreak (Strymon melinus), and Common Buckeye (Junonia coeni).",3,58,14,35,0,0,350,800
+28,Berberis pinnata,Coast Barberry,Shrub (evergreen),Spring,4-6 ft,Part Shade,Clay,Low,Garden,Attracts Cedar Waxwing (Bombycilla cedrorum) bird.,9,77,14,38,100,350,100,350
+29,Bolboschoenus robustus,Alkali Bulrush / Sturdy Bulrush,Perennial,Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,,21,78,19,21,350,600,350,800
+30,Brahea edulis,Guadalupe Palm,Tree (evergreen),,> 24 ft,Sun,,Low,Sidewalk,Very slow growing in San Francisco.,30,50,17,23,100,350,500,800
+31,Bromus carinatus ,California Brome,Grass,Winter,4-6 ft,Sun,Clay;Loam;Sand;Rock,None,Garden,Attracts Umber Skipper butterfly.,4,97,19,28,0,0,500,800
+32,Bromus laevipes,Woodland Brome,Grass,Summer,4-6 ft,Shade,Clay;Loam;Sand;Rock,None,Garden,Needs to be planted with other grasses.,2,58,14,37,0,0,0,100
+33,Calamagrostis nutkaensis,Pacific Reedgrass,Grass,Spring,4-6 ft,Sun;Part Shade,Clay,Low,Sidewalk;Garden,"Needs fog and moisture, and tolerates wind well.",17,99,19,36,100,350,350,800
+34,Callistemon citrinus,Lemon Bottlebrush,Tree (evergreen),Spring;Summer,13-24 ft,Sun,,Low,Sidewalk,"Grows low, and wide canopy and needs a wide sidewalk, sticky flowers.",7,53,19,36,100,350,500,800
+35,Callistemon viminalis,Weeping Bottlebrush,Tree (evergreen),Spring;Summer,> 24 ft,Sun;Part Shade,,Low,Sidewalk,Has sticky flowers.,2,81,16,29,100,350,350,800
+36,Calycanthus occidentalis,Spice Bush,Shrub (evergreen),Summer,7-12 ft,Sun;Shade,Clay;Loam;Sand,Low,Garden,,24,71,20,33,100,350,0,750
+37,Calystegia soldanella,Beach Morning Glory,Perennial,Spring,1-3 ft,Sun,Sand,None,Garden,"Needs dunes and shifting sand, most likely by ocean beach.",0,54,15,22,0,0,500,800
+38,Carex pansa,Pacific Dune Sedge,Perennial,Spring,< 1 ft,Sun,Sand,Moderate,Garden;Roof,"Practical plant that is a dry grower and needs sand dunes. Can form a tight, tough mat.",0,54,17,37,350,600,500,800
+39,Carex praegracilis,Clustered Field Sedge,Perennial,Summer,1-3 ft,Sun,Clay;Loam;Sand;Rock,Moderate,Garden;Roof,"Suitable lawn alternative, and can tolerate standing water.",7,96,20,26,350,600,500,800
+40,Castilleja ambigua,Salt Marsh Owl’s-clover,Annual,Summer,< 1 ft,Sun,Clay;Loam;Sand,Moderate,Garden,"Hemiparasitic (Need root system of other plants for moisture and minerals) - favor composite family such as artemisia, sagebrush, coyotebush, pearly everlasting). Attracts Chalcedon Checkerspot (Euphydryas chalcedona) butterfly.",10,55,12,39,350,600,500,800
+41,Cirsium quercetorum,Brownie Thistle,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden,"Short plant that spreads well by runners. Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies.",23,73,13,34,100,350,350,800
+42,Castilleja latifolia,Monterey Indian Paintbrush,Perennial,Spring;Summer,< 1 ft,Sun,Clay;Loam;Sand,Low,Garden;Roof,"Hemiparasitic (Need root system of other plants for moisture and minerals) - favor composite family such as artemisia, sagebrush, coyotebush, pearly everlasting). Attracts Chalcedon Checkerspot (Euphydryas chalcedona) butterfly.",19,53,19,40,100,350,500,800
+43,Castilleja subinclusa ssp. franciscana,Franciscan Paintbrush,Perennial,Summer,1-3 ft,Sun,Clay;Rock,Low,Garden,"Hemiparasitic (Need root system of other plants for moisture and minerals) - favor composite family such as artemisia, sagebrush, coyotebush, pearly everlasting). Attracts Chalcedon Checkerspot (Euphydryas chalcedona) butterfly.",8,75,11,23,100,350,500,800
+44,Claytonia perfoliata,Miner's Lettuce,Annual,Spring;Winter,< 1 ft,Part Shade,Clay;Loam;Sand,Low,Garden,Prolific plant. Attracts Mourning Doves and California Quail.,6,81,15,39,100,350,100,350
+45,Castilleja wightii,Wight's Paintbrush,Perennial,Summer,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,"Hemiparasitic (Need root system of other plants for moisture and minerals) - favor composite family such as artemisia, sagebrush, coyotebush, pearly everlasting). Attracts Chalcedon Checkerspot (Euphydryas chalcedona) butterfly.",27,81,9,39,100,350,500,800
+46,Ceanothus 'Ray Hartman',Ray Hartman Ceanothus,Tree (evergreen),Spring,13-24 ft,Sun,Sand;Loam,None,Sidewalk,,9,89,18,36,0,0,500,800
+47,Ceanothus thyrsiflorus ,Blueblossom,Shrub (evergreen),Spring,1-3 ft,Sun,Clay;Loam,None,Sidewalk;Garden,"Fragrant flowers. Attracts Cedar Waxwing bird and Echo Blue (Celestrina ladon echo), California Tortoiseshell (Nymphalis californica) butterflies.",19,55,9,21,0,0,500,800
+48,Celtis sinensis,Chinese Hackberry,Tree (deciduous),Spring,> 24 ft,Sun,,Low,Sidewalk,"Prefers heat, wind protection, uneven performer.",10,52,17,39,100,350,500,800
+49,Cercis occidentalis,Redbud,Tree (deciduous),Spring,13-24 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden,,18,54,14,23,0,0,350,800
+50,Chlorogalum pomeridianum,Soap Plant,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,Tough plant that is easy to grow. Flowers only open in evening or very overcast weather.,26,66,20,29,100,350,350,800
+51,Cirsium brevistylum,Indian Thistle,Perennial,Spring;Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Rock,None,Garden,"Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies.",17,82,19,38,0,0,350,800
+52,Cirsium occidentale var. californicum,California Thistle,Perennial,Summer,7-12 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Roof,"Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies.",20,73,12,38,0,0,350,800
+53,Cirsium occidentale var. candidissimum,Snowy Thistle,Perennial,Summer,7-12 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden,"Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies.",20,87,14,28,0,0,350,800
+54,Cirsium occidentale var. compactum,Compact Cobweb Thistle,Perennial,Spring,4-6 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Roof,"Rare: CNPS 1B.2 . Attracts Mylitta Crescent (Phyciodes mylitta), California Crescent (Phyciodes orseis), and Painted Lady (Vanessa cardui) butterflies.",16,60,9,24,0,0,350,800
+55,Clarkia davyi,Davy's Clarkia,Annual,Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,,15,71,18,21,100,350,350,800
+56,Clarkia purpurea,Winecup Clarkia,Annual,Spring;Summer,< 1 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,,9,82,18,35,100,350,350,800
+57,Clarkia rubicunda,Farewell to Spring,Annual,Summer,1-3 ft,Sun;Part Shade,Clay;Loam,None,Garden,,24,78,19,20,0,0,350,800
+58,Clarkia unguiculata,Woodland Clarkia,Annual,Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden;Roof,,24,92,16,31,100,350,350,800
+59,Asplenium scolopendrium,Hart's Tongue Fern,Fern,,1-3 ft,Part Shade;Shade,,Low,Garden,,0,98,10,33,100,350,0,350
+60,Clematis ligusticifolia,Western Virgin's Bower,Perennial,Summer,> 24 ft,Sun;Part Shade,Loam;Sand,Moderate,Garden;Roof,,14,71,17,35,350,600,350,800
+61,Clinopodium douglasii,Yerba Buena,Perennial,Summer,< 1 ft,Part Shade,Clay;Loam;Sand;Rock,Low,Garden;Roof,Temperamental and may not persist. Fragrant foliage.,0,78,18,34,100,350,100,350
+62,Collinsia heterophylla,Chinese Houses,Annual,Spring;Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,Rare plant. Attracts Checkerspot Butterfly.,24,76,15,31,100,350,350,800
+63,Cordyline australis,Cabbage Palm,Tree (evergreen),Summer,13-24 ft,Sun;Part Shade,,Low,Sidewalk,"Needs very large basin, take care when planting near natural areas.",24,69,16,29,100,350,350,800
+64,Corethrogyne filaginifolia,Common Sand Aster,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden;Roof,,27,67,11,21,100,350,350,800
+65,Cornus sericea,American Dogwood,Shrub (deciduous),Spring;Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,Moderate,Garden,Attracts Sprin Azure / Echo Blue (Celastrina ladon echo) butterfly.,9,89,18,24,350,600,350,800
+66,Cornus sericea ssp. occidentalis,California Dogwood,Shrub (deciduous),Summer,7-12 ft,Sun;Shade,Clay;Loam;Sand;Rock,Moderate,Garden,Attracts Cedar Waxwing bird.,30,96,18,32,350,600,0,750
+67,Corylus cornuta,California Hazelnut,Tree (deciduous),Winter,7-12 ft,Sun;Shade,Clay;Loam;Sand,Low,Garden,,24,95,16,25,100,350,0,750
+68,Corymbia ficifolia,Red Flowering Gum,Tree (evergreen),Summer,> 24 ft,Sun,,Low,Sidewalk,"Needs a very large basin, wide sidewalk.",24,76,19,34,100,350,500,800
+69,Crataegus phaenopyrum,Washington Hawthorn,Tree (deciduous),Spring,13-24 ft,Sun;Part Shade,,Low,Sidewalk,"Subject to pests, has thorns, may be susceptible to fireblight.",19,92,17,36,100,350,350,800
+70,Crataegus x Lavallei,Lavallée's hawthorn,Tree (deciduous),,13-24 ft,,,Low,Sidewalk,,25,97,9,39,100,350,,
+71,Cressa truxillensis,Alkali Weed,Perennial,Summer,< 1 ft,Sun;Shade,Loam;Sand,Low,Garden,,22,73,18,27,100,350,0,750
+72,Syagrus romanzoffiana,Queen Palm,Tree (evergreen),,> 24 ft,Sun,,Low,Sidewalk;Garden,"Needs heat, wind protection.",3,51,15,31,100,350,500,800
+73,Symphoricarpos albus,Common Snowberry,Shrub (deciduous),Summer,1-3 ft,Sun;Part Shade;Shade,Clay;Loam;Sand;Rock,Low,Sidewalk;Garden,"Attracts quail, pheasant, and grouse.",13,54,18,34,100,350,0,800
+74,Symphoricarpos mollis,Trailing Snowberry,Shrub (deciduous),Spring;Summer,1-3 ft,Sun;Part Shade;Shade,Clay;Loam;Sand,Low,Garden,,15,80,12,29,100,350,0,800
+75,Symphyotrichum chilense,Wild Aster,Perennial,Summer,1-3 ft,Sun,Clay;Loam;Sand;Rock,None,Garden;Roof,Attracts Field Crescent (Phyciodes campestris) butterfly.,5,86,17,37,0,0,500,800
+76,Tanacetum bipinnatum,Dune Tansy,Perennial,Summer;Fall,1-3 ft,Sun,Sand,None,Garden;Roof,,23,65,14,21,0,0,500,800
+77,Tellima grandiflora,Fringe Cups,Perennial,Spring;Summer,1-3 ft,Part Shade;Shade,Loam;Clay,Low,Garden,"Self-sowing, but not weedy.",5,85,15,20,100,350,0,350
+78,Tilia cordata,Littleleaf Linden,Tree (deciduous),Spring,> 24 ft,Sun,,Low,Sidewalk;Garden,Slow grower.,11,69,12,26,100,350,500,800
+79,Trifolium fucatum,Bull Clover,Annual,Spring,1-3 ft,Sun,Clay;Loam;Sand,Moderate,Garden,Wet grower. Attracts Orange Sulphur (Colias eurytheme).,16,65,13,24,350,600,500,800
+80,Trifolium gracilentum,Pinpoint Clover,Annual,Spring,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,Attracts Orange Sulphur (Colias eurytheme).,11,88,18,31,100,350,500,800
+81,Trifolium variegatum,Whitetip Clover,Annual,Spring;Summer,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,Attracts Orange Sulphur (Colias eurytheme).,15,84,17,21,100,350,500,800
+82,Trifolium willdenovii,Tomcat Clover,Annual,Spring,1-3 ft,Sun;Part Shade,Clay;Loam,None,Garden,Attracts Orange Sulphur (Colias eurytheme) and Bay Checkerspot butterflies.,16,98,13,40,0,0,350,800
+83,Trifolium wormskioldii,Cow Clover,Perennial,Spring,< 1 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,Wet grower.,12,95,11,21,350,600,350,800
+84,Tristaniopsis laurina,Water Gum,Tree (evergreen),Spring,13-24 ft,Sun,Clay;Loam;Sand,None,Sidewalk;Garden,,29,98,10,40,0,0,500,800
+85,Euthamia occidentalis,Western Goldenrod,Perennial,Summer;Fall,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,,18,84,15,37,100,350,350,800
+86,Tristaniopsis laurina  'Elegant',Elegant Brisbane Box,Tree (evergreen),Spring;Summer,13-24 ft,Sun,,Low,Sidewalk;Garden,"Foremerly know as Tristania laurina ‘Elegant’; grows slowly, irregular form, mod-high maintenance.",14,52,10,40,100,350,500,800
+87,Typha domingensis,Southern Cattail,Perennial,Spring;Summer,7-12 ft,Sun,Clay;Loam;Sand,Moderate,Garden,"Wet grower, fresh water, travels and can be a maintenance problem very easily. Attracts Red-Wing Black bird.",19,73,10,40,350,600,500,800
+88,Typha latifolia,Broadleaf Cattail,Perennial,Spring,7-12 ft,Sun,Clay;Loam;Sand,Moderate,Garden,"Wet grower, fresh water, travels and can be a maintenance problem very easily.",7,99,13,21,350,600,500,800
+89,"Ulmus parvifolia 'Drake', 'Sempervirens'",Drake/Sempervirens Chinese Elm,Tree (deciduous),,> 24 ft,Sun,,Low,Sidewalk,"Fast grower, which initially requires higher maintenance.",11,61,16,23,100,350,500,800
+90,Urtica dioica ssp. gracilis,Stinging Nettle,Perennial,Spring;Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,"Attracts Red Admiral (Vanessa atalanta), Satyr Anglewing (Polygonia satyrus), and West Coast Lady (Vanessa annabella).",26,70,16,25,350,600,350,800
+91,Urtica dioica ssp. holosericea,Hoary Nettle,Perennial,Summer,4-6 ft,Sun,Clay;Loam;Sand,Low,Garden,"Attracts Red Admiral (Vanessa atalanta), Satyr Anglewing (Polygonia satyrus), West Coast Lady (Vanessa annabella).",7,99,18,25,100,350,500,800
+92,Vaccinium ovatum,Huckleberry,Shrub (evergreen),Spring;Winter,7-12 ft,Sun;Part Shade;Shade,Clay,Low,Garden,,6,60,19,23,100,350,0,800
+93,Verbena bonariensis,Purpletop Vervain,Annual,Spring,4-6 ft,Sun;Part Shade,Loam,Low,Garden,Attracts Mournful Duskywing (Erynnis tristis).,5,86,19,31,100,350,350,800
+94,Verbena lasiostachys,Western Vervain,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,Low,Garden,Attracts Mournful Duskywing (Erynnis tristis).,9,69,15,29,100,350,350,800
+95,Vitis californica,California Wild Grape,Vine,Spring,> 24 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,Low,Garden;Roof,Plant east of Twin Peaks – needs warmth. Attracts Cedar Waxwing and Western Fence Lizard.,9,79,9,28,100,350,350,800
+96,Washingtonia robusta,Mexican Fan Palm,Tree (evergreen),,> 24 ft,Sun,,Low,Sidewalk;Garden,"Prefers some warmth, full sun",13,54,20,22,100,350,500,800
+97,Cupaniopsis anacardioides,Carrot Wood,Tree (evergreen),Summer,> 24 ft,Sun;Shade,,Low,Sidewalk,"Uneven performer, needs heat, wind protection.",24,63,11,25,100,350,0,750
+98,Danthonia californica,California Oatgrass,Grass,Winter,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,"Deep roots, takes to hillsides well, and better erosion protection than most trees.",1,77,16,38,100,350,500,800
+99,Deinandra corymbosa,Coast Tarweed,Annual,Spring;Summer;Fall,1-3 ft,Sun,Clay,Low,Garden,Best on east side of the city.,19,95,20,34,100,350,500,800
+100,Whipplea modesta,Western modesty,Vine,Spring,< 1 ft,Part Shade,Sand;Loam,Low,Sidewalk;Garden,,16,83,19,21,100,350,100,350
+101,Deschampsia cespitosa ssp. holciformis,Tufted Hairgrass,Grass,Summer,< 1 ft,Sun;Shade,Clay;Loam,Low,Garden,Not drought tolerant.,16,72,15,32,100,350,0,750
+102,Distichlis spicata,Saltgrass,Grass,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,Attracts Westen Pygmy Blue butterfly (Brephidium exile).,20,69,12,33,100,350,350,800
+103,Dudleya brittonii D. pulverulenta,Chalk Dudleya,Succulent,Spring,< 1 ft,Sun,Clay,Low,Garden;Roof,Good for containers / medians. Chalky foliage.,6,91,10,29,100,350,500,800
+104,Dudleya caespitosa,"Sea Lettuce, Coast Dudleya",Succulent,Summer,< 1 ft,Sun;Part Shade,Clay,Low,Garden;Roof,,28,92,16,34,100,350,350,800
+105,Dudleya farinosa,Live Forever,Succulent,Spring,< 1 ft,Sun;Part Shade,Rock;Sand,None,Garden;Roof,Produces green or glaucus form. Plant next to concrete to wick moisture. Chalky white and red foliage.,9,72,14,33,0,0,350,800
+106,Elaeocarpus decipiens,Japanese Blueberry Tree,Tree (evergreen),Summer,13-24 ft,Sun,,Low,Sidewalk,"Slow growing, keep out of strong/ prevailing wind, flowers and may not produce fruit at maturity here .",30,63,11,40,100,350,500,800
+107,Eleocharis macrostachya,Common or Creeping Spikerush,Grass,Spring,1-3 ft,Sun,Clay;Loam;Sand;Rock,Moderate,Garden,Brown Seedhead.,8,61,18,21,350,600,500,800
+108,Eleocharis parvula,Dwarf Spikerush,Grass,Summer,< 1 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,Moderate,Garden,CNPS Rare Plant,14,86,19,25,350,600,350,800
+109,Elymus glaucus,Blue Wild-rye,Grass,Summer,1-3 ft,Part Shade,Clay;Loam;Sand,None,Garden;Roof,Versatile flower that is a weedfighter and survivor.,11,95,16,28,0,0,100,350
+110,Elymus mollis ssp. mollis,American Dune Grass,Grass,Summer,1-3 ft,Sun,Sand,None,Sidewalk;Garden,"Needs dunes and shifting sand, most likely by ocean beach.",18,62,10,30,0,0,500,800
+111,Elymus pacificus,Pacific wild rye,Grass,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden;Roof,,15,76,12,25,100,350,350,800
+112,Elymus triticoides,Beardless wild rye,Grass,Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden;Roof,Versatile flower that is a runner and good for binding.,18,94,18,34,100,350,350,800
+113,Encelia californica,Bush Sunflower,Shrub (evergreen),Spring;Summer;Winter,4-6 ft,Sun,Clay,Low,Sidewalk;Garden,Sunflower-like flowers. Attracts Red-Winged Blackbird.,14,51,17,34,100,350,500,800
+114,Epilobium brachycarpum,Annual Fireweed,Annual,Summer,4-6 ft,Sun;Shade,Clay;Loam;Sand,None,Garden,Self-seeds. Attracts Lesser Goldfinches and Sphinx Moth.,12,87,18,27,0,0,0,750
+115,Festuca californica,California Fescue,Grass,Spring;Winter,1-3 ft,Part Shade,clay;loam,Low,Garden;Sidewalk;Roof,Attracts Black-tailed jackrabbit.,7,85,13,39,100,350,100,350
+116,Epilobium canum,California Fuchsia,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Loam;Rock;Sand,None,Garden;Roof,Attracts Anna's Hummingbird and White Line Sphinx moth.,10,62,14,25,0,0,350,800
+117,Epilobium ciliatum ssp. watsonii,Willow Herb,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,Low,Garden,Self-seeds. Attracts Lesser Goldfinches.,16,77,10,32,100,350,350,800
+118,Ericameria ericoides,Mock Heather,Shrub (evergreen),Fall,1-3 ft,Sun,Sand,None,Sidewalk;Garden,"Needs dunes and shifting sand, most likely by ocean beach.",28,99,16,38,0,0,500,800
+119,Erigeron glaucus,Seaside Daisy,Perennial,Spring;Winter,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden;Sidewalk;Roof,Adaptable to many locations. Attracts Green Hairstreak (Callophrys viridis) butterfly.,11,50,13,34,0,0,350,800
+120,Eriobotrya deflexa,Bronze Loquat,Tree (evergreen),Spring,13-24 ft,Sun;Part Shade,,Low,Sidewalk,"Needs wind protection, does not perform well in sandy soils.",27,54,14,29,100,350,350,800
+121,Eriogonum latifolium,Coast Buckwheat,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Rock;Sand;Clay,None,Garden;Sidewalk;Roof,Recommended. Attracts Green Hairstreak (Callophrys viridis) and Acmon Blue (Plebejus acmon) butterflies.,2,84,14,27,0,0,350,800
+122,Eriophyllum staechadifolium,Lizardtail,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden;Sidewalk;Roof,"Recommended. Likes the fog belt, but could do the east side.",26,68,18,32,0,0,350,800
+123,Erysimum franciscanum,San Francisco Wallflower,Perennial,Spring,1-3 ft,Sun,Loam;Sand;Clay;Rock,None,Garden,CNPS Rare Plant,0,93,9,21,0,0,500,800
+124,Escallonia bifida,White Escallonia,Perennial,Summer,7-12 ft,Sun,Loam,Low,Garden,,3,63,19,29,100,350,500,800
+125,Eschscholzia californica,California Poppy,Perennial,Spring;Summer,1-3 ft,Sun,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,"Coastal form is smaller and more yellow, large orange form is native inland.",24,99,9,32,0,0,500,800
+126,Adenanthos spp.,Woolly Bush,Shrub (evergreen),,varies,Sun;Part Shade,,Low,Garden,,8,100,15,38,100,350,350,800
+127,Eucalyptus polyanthemos,Silver Dollar Gum,Tree (evergreen),Summer;Fall,> 24 ft,Sun,,Low,Sidewalk,"Needs a large basin, fast grower, high maintenance.",10,88,15,35,100,350,500,800
+128,Festuca idahoensis,Idaho Fescue,Grass,Summer,< 1 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,,12,95,16,30,0,0,350,800
+129,Festuca rubra,Red Fescue,Grass,Spring,< 1 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden;Sidewalk;Roof,,29,61,17,24,0,0,350,800
+130,Festuca rubra 'Point Molate',Molate Fescue,Grass,Spring,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden;Roof,,11,95,20,27,0,0,350,800
+131,Fragaria chiloensis,Coast Strawberry,Perennial,Winter,< 1 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,Endures wind well. Attracts Green Hairstreak (Callophrys viridis) butterfly.,18,88,11,21,0,0,350,800
+132,Fragaria vesca,Woodland Strawberry,Perennial,Spring;Winter,< 1 ft,Part Shade;Shade,Clay;Loam,Low,Garden;Sidewalk;Roof,,27,79,16,29,100,350,0,350
+133,Frangula californica,Coffeeberry,Shrub (evergreen),Summer,7-12 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden,Attracts Pale Tiger Swallowtail (Papilio eurymedon) and White-Crowned Sparrow.,7,99,13,24,0,0,350,800
+134,Frankenia salina,Alkali-heath,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,,11,60,20,30,350,600,350,800
+135,Fraxinus latifolia,Oregon Ash,Tree (deciduous),Spring,> 24 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,Attracts Pale Swallowtail (Papilio eurymedon) and Western Tiger Swallowtail (Papilio rutulus).,16,80,14,35,100,350,350,800
+136,Fremontodendron 'California Glory',Flannel Bush,Shrub (evergreen),Spring,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden,,26,88,15,32,0,0,350,800
+137,Gaillardia x grandiflora,Gaillardia (Blanket Flower),Perennial,Summer,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,,22,91,19,38,100,350,500,800
+138,Galvezia speciosa,Island Bush Snapdragon,Perennial,Spring,4-6 ft,Sun;Part Shade,Clay;Sand,None,Sidewalk;Garden,Intermittent bloom throughout the year.,5,80,9,39,0,0,350,800
+139,Garrya elliptica,Coast Silktassel,Shrub (evergreen),Winter,13-24 ft,Sun;Shade,clay;loam,Low,Sidewalk,"Beautiful plant that gets large, is wind pollinated, and could be trained into a single stem tree.",12,69,17,33,100,350,0,750
+140,Geijera parviflora,Australian Willow,Tree (evergreen),Spring,> 24 ft,Sun,Loam;Sand,Moderate,Sidewalk,"Prefers heat, wind protection.",3,96,19,27,350,600,500,800
+141,Gilia capitata ssp. Chamissonis,Dune Gilia,Annual,Spring;Summer,1-3 ft,Sun,Clay;Loam;Sand,None,Garden,,16,71,13,32,0,0,500,800
+142,Gilia tricolor ssp. Tricolor,Bird's Eye Gilia,Annual,Summer,< 1 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,18,52,14,29,100,350,350,800
+143,Ginkgo biloba 'Autumn Gold',Maidenhair Tree,Tree (deciduous),Spring,> 24 ft,Sun,Clay;Loam;Sand,Low,Sidewalk,"Slow grower. 'Princeton Sentry', 'Saratoga' another variety.",16,98,10,25,100,350,500,800
+144,Glaux maritima,Sea milkwort,Perennial,Spring,1-3 ft,Sun,Clay;Loam;Sand,Moderate,Garden,,24,58,14,37,350,600,500,800
+145,Artemisia tridentata,Big Sagebrush,Shrub (evergreen),Summer,4-6 ft,Sun,Sand;Loam,None,Garden,,3,72,18,30,0,0,500,800
+146,Banksia spp.,Banksia,Shrub (evergreen),,13-24 ft,Sun,,Low,Garden,,15,54,9,38,100,350,500,800
+147,Calliandra eriophylla,"	Fairy Dustre",Shrub (evergreen),Spring;Winter,4-6 ft,Sun,Sand;Loam,None,Garden,,29,93,12,29,0,0,500,800
+148,Ceanothus spp.,California Lilac,Shrub (evergreen),,varies,Sun,,Low,Garden,,21,95,16,36,100,350,500,800
+149,Grindelia hirsutula,San Francisco Gumplant,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Rock,None,Garden;Sidewalk;Roof,"CNPS Rare Plant. Tough plant, easy to grow, self seeding. Attracts Common Buckeye (Junonia coenia) butterfly.",30,55,16,33,0,0,350,800
+150,Grindelia stricta,Coastal Gumplant,Perennial,Spring;Summer;Fall,< 1 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden;Roof,,24,59,10,24,100,350,350,800
+151,Helianthus gracilentus,Slender Sunflower,Perennial,Spring;Summer,4-6 ft,Sun,Clay;Loam,Low,Garden,Attracts Red-Winged Blackbird and Monarch Butterfly (Danaus plexippus).,0,88,16,32,100,350,500,800
+152,Heliotropium curassavicum,Wild Heliotrope,Perennial,Spring,< 1 ft,Sun;Part Shade,Loam;Sand,Low,Garden,,5,84,11,35,100,350,350,800
+153,Heracleum maximum,Cow Parsnip,Perennial,Summer,7-12 ft,Part Shade,Loam;Sand,Low,Garden,,5,80,16,23,100,350,100,350
+154,Heteromeles arbutifolia,Toyon,Shrub (evergreen),Summer,7-12 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden,"White flowers in summer, red berries in winter. Attracts Cedar Waxwing, Robins, and Purple Finches.",5,85,11,28,0,0,350,800
+155,Origanum dictamnus,"Dittany of Crete, Hop Marjoram",Perennial,Summer,< 1 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,6,59,10,35,0,0,500,800
+156,Heterotheca sessiliflora ssp. Bolanderi,Bolander's Goldenaster,Perennial,Spring;Summer;Fall;Winter,1-3 ft,Sun,Clay;Rock,None,Garden,,4,53,10,32,0,0,500,800
+157,Heuchera micrantha,Alum Root,Perennial,Spring;Summer,1-3 ft,Part shade;Shade,Clay;Loam,Moderate,Garden;Sidewalk;Roof,Prefers north facing cliff faces and cracks in the rock.,7,94,13,30,350,600,,
+158,Holodiscus discolor,Cream Bush,Shrub (deciduous),Spring;Summer,7-12 ft,Sun;Part Shade;Shade,Clay;Loam,Low,Garden,"Attracts Spring Azure, Pale Swallowtail, and Lorquin’s Admiral butterflies.",19,61,17,25,100,350,0,800
+159,Hordeum brachyantherum,Meadow Barley,Grass,Summer,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,26,62,18,39,100,350,350,800
+160,Horkelia californica,California Horkelia,Perennial,Spring,1-3 ft,Sun;Part Shade;Shade,Clay;Rock,None,Sidewalk;Garden,,18,57,20,21,0,0,0,800
+161,Hosackia gracilis,Harlequin Lotus,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay,Moderate,Garden,,7,100,15,39,350,600,350,800
+162,Hymenosporum flavum,Sweetshade,Tree (evergreen),Summer,> 24 ft,Sun;Part Shade,,Low,Sidewalk,"Uneven performer, prefers heat, wind protection, good drainage.",6,87,20,39,100,350,350,800
+163,Iris douglasiana,Douglas Iris,Perennial,Spring;Winter,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden;Sidewalk;Roof,"Likes wind and fog, include longipella (likes warmer, calmer, drier).",13,55,18,23,100,350,350,800
+164,Isolepis cernua,Low Bulrush,Annual,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,,2,88,11,27,350,600,350,800
+165,Iva axillaris,Poverty-weed,Perennial,Spring;Summer,< 1 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,Desert plant.,7,94,13,20,350,600,350,800
+166,Jacaranda mimosifolia,Jacaranda,Tree (evergreen),Spring;Summer,> 24 ft,Sun,,Low,Sidewalk,"Uneven performer, prefers heat, wind protection, good drainage.",23,54,11,21,100,350,500,800
+167,Juncus balticus,Salt Rush,Perennial,Spring,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden;Roof,"Creeping rush, runner not buncher.",22,77,12,26,350,600,350,800
+168,Juncus bufonius,Toad Rush,Annual,Spring,< 1 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,Seedheads.,27,56,20,34,350,600,350,800
+169,Juncus xiphioides,Iris-leaved Rush,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,spreads well by runners.,28,97,12,30,350,600,350,800
+170,Koeleria macrantha,June Grass,Grass,Spring,1-3 ft,Sun;Part Shade,clay;loam,None,Roof;Garden,Great bunchgrass.,,,,,0,0,350,800
+171,Koelreuteria paniculata,Goldenrain Tree,Tree (deciduous),Summer,> 24 ft,Sun,,Low,Sidewalk,"Uneven performer, prefers heat, wind protection.",,,,,100,350,500,800
+172,Lagunaria patersonii,Primrose Tree,Tree (evergreen),Spring;Summer,> 24 ft,Sun,Clay;Loam;Sand,Low,Sidewalk,Does well in windy areas.,,,,,100,350,500,800
+173,Lasthenia californica,California Goldfields,Annual,Spring;Winter,< 1 ft,Sun,Clay;Loam;Rock,Low,Garden;Roof,,,,,,100,350,500,800
+174,Lasthenia glaberrima,Smooth Goldfields,Annual,Spring,1-3 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,,,,,,350,600,350,800
+175,Lasthenia glabrata,Yellow-rayed Goldfields,Annual,Spring;Winter,1-3 ft,Sun;Part Shade,clay;loam,Moderate,Garden,Attracts Checkerspot butterfly (endangered).,,,,,350,600,350,800
+176,Laurus nobilis 'Saratoga',Sweet Bay,Tree (evergreen),Spring,13-24 ft,Sun;Part Shade,,Low,Sidewalk,"Uneven performer, prefers heat, wind protection, gets pests.",,,,,100,350,350,800
+177,Lavandula spp.,Lavender,Shrub (evergreen),Spring;Summer;Fall;Winter,1-3 ft,Sun,Clay;Loam,None,Sidewalk;Garden,"Relatively short-lived, it will become leggy if not pruned after flowering.",,,,,0,0,500,800
+178,Leptospermum laevigatum,Australian Tea Tree,Tree (evergreen),Spring,13-24 ft,Sun,,Low,Sidewalk,"Poor rooter, may need long-term or permanent staking.",,,,,100,350,500,800
+179,Leptosyne calliopsidea,Leafy-stemmed Coreopsis,Annual,Spring;Winter,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,,,,,100,350,350,800
+180,Limonium californicum,Sea Lavender,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Sidewalk;Garden,,,,,,350,600,350,800
+181,Liquidambar styraciflua,American Sweetgum,Tree (deciduous),Spring,> 24 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Sidewalk,Needs a very large basin for canopy and roots,,,,,350,600,350,800
+182,Liriodendron tulipifera,Tulip Tree,Tree (deciduous),Spring,> 24 ft,Sun,,Low,Sidewalk,Uneven performer.,,,,,100,350,500,800
+183,Lomatium californicum,California Celery,Perennial,Spring,1-3 ft,Part Shade;Shade,Clay;Loam,Low,Garden,Dry grower. Attracts Anise Swallowtail (Papilio Zelicaon) butterfly.,,,,,100,350,0,350
+184,Lonicera involucrata,Twinberry Honeysuckle,Shrub (deciduous),Summer,7-12 ft,Sun;Part Shade,Loam;Clay,Low,Garden,"Not wind tolerant, but grows in many habitats. Attracts Cedar Waxwing and  Red Admiral.",,,,,100,350,350,800
+185,Lophostemon confertus,Brisbane Box,Tree (evergreen),Spring;Summer,> 24 ft,Sun,,Low,Sidewalk,,,,,,100,350,500,800
+186,Lupinus albifrons,Silver Lupine,Perennial,Spring;Summer,4-6 ft,Sun,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,Host to the endangered Mission Blue Butterfly.,,,,,0,0,500,800
+187,Passiflora caerulea,Passion Vine,Vine,Spring;summer,> 24 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+188,Lupinus arboreus,Yellow Bush Lupine,Shrub (evergreen),Spring,4-6 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden,"Only plant in western sandy areas.  Grows fast, then dies out fast.  Lupines should be planted as plants – unpredictable germination.",,,,,0,0,350,800
+189,Lupinus bicolor,Miniature Lupine,Annual,Spring,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden;Roof,Plant to the east of sunset.,,,,,0,0,350,800
+190,Lupinus chamissonis,Silver Dune Lupine,Shrub (evergreen),Spring,4-6 ft,Sun,Sand,None,Garden,,,,,,0,0,500,800
+191,Lupinus variicolor,Varied Lupine,Perennial,Spring;Summer,1-3 ft,Sun,Loam;Sand,None,Garden;Sidewalk;Roof,Plant to the east of sunset.,,,,,0,0,500,800
+192,Lyonothamnus floribundus ssp. Asplenifolius,Catalina Ironwood,Tree (evergreen),Spring;Summer,> 24 ft,Sun,Clay;Loam,Low,Sidewalk,"Prefers heat, wind protection.",,,,,100,350,500,800
+193,Lythrum californicum,Common loosestrife,Perennial,Spring;Summer,4-6 ft,Sun;Part Shade,Loam,Low,Garden,,,,,,100,350,350,800
+194,Madia sativa,Common Tarweed,Annual,Summer,4-6 ft,Sun,Clay;Sand,None,Garden,Attracts Western Meadowlark bird.,,,,,0,0,500,800
+195,Magnolia  doltsopa,Sweet Michelia,Tree (evergreen),Spring,13-24 ft,Sun;Part Shade,,Low,Sidewalk,"Formerly Michelia doltsopa; uneven performer, grows very slowly, prefers heat, wind protection.",,,,,100,350,350,800
+196,Magnolia champaca,Golden Champaca,Tree (evergreen),Spring;Summer,13-24 ft,Sun;Part Shade,,Low,Sidewalk,"Formerly Michelia champaca; needs wind protection, wide sidewalk, gets powdery mildew and very slow grower.",,,,,100,350,350,800
+197,Magnolia grandiflora 'Little Gem',Little Gem Magnolia,Tree (evergreen),Summer;Fall,13-24 ft,Sun,,Low,Sidewalk,,,,,,100,350,500,800
+198,"Magnolia grandiflora 'Majestic Beauty', 'Samuel Sommer'",Majestic Beauty/Samuel Sommer Southern Magnolia,Tree (evergreen),,> 24 ft,,,Low,Sidewalk,,,,,,100,350,,
+199,Magnolia grandiflora 'St. Mary',St. Mary Magnolia,Tree (evergreen),Summer;Fall,> 24 ft,Sun,,Low,Sidewalk,,,,,,100,350,500,800
+200,Mahonia repens,Creeping Mahonia,Shrub (evergreen),Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Sidewalk;Garden,,,,,,100,350,350,800
+201,Dasylirion wheeleri,Desert Spoon,succulent,Summer,4-6 ft,Sun,,None,Garden,,,,,,0,0,500,800
+202,Malva assurgentiflora,"Malva Rosa, Island Mallow",Shrub (evergreen),Spring;Summer;Winter,7-12 ft,Part Shade,Clay;Loam;Sand,Low,Garden,Attracts Grey Hairstreak (Strymon melinus) and Painted Lady (Vanessa cardui) butterflies.,,,,,100,350,100,350
+203,Arctostaphylos spp.,Manzanita,Shrub (evergreen),,varies,Sun,,Low,Garden,,,,,,100,350,500,800
+204,Artemisia spp.,California Sagebrush,Shrub (evergreen),,4-6 ft,Sun,,None,Garden,,,,,,0,0,500,800
+205,Marah fabacea,Wild Cucumber/Manroot,Vine,Spring,13-24 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden,Attracts Scrub Jays.,,,,,0,0,350,800
+206,Marah oregana,Coast Manroot,Vine,Spring,13-24 ft,Part shade;Shade,Clay;Loam;Sand,Low,Garden,Only one specimen in SF in John McLaren Park.,,,,,100,350,,
+207,Cotinus spp.,Smoke Bush,Shrub (evergreen),,7-12 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+208,Melaleuca quinquenervia,Cajeput Tree,Tree (evergreen),Summer;Fall,> 24 ft,Sun,Clay;Loam;Sand,Low,Sidewalk,"Grows fast, dense, irregular form, prefers wind protection.",,,,,100,350,500,800
+209,Melaleuca styphelioides,Prickly Melaleuca,Tree (evergreen),Spring;Summer,> 24 ft,Sun,Clay;Loam;Sand,Low,Sidewalk,"Can root poorly, and prickly leaves.",,,,,100,350,500,800
+210,Melica californica,California Melic ,Grass,Summer,1-3 ft,Sun;Part Shade,Clay;Loam,None,Garden,"Requires moisture in growing season, then wants to be dry after flowering.",,,,,0,0,350,800
+211,Melica torreyana,Torrey melic,Grass,Spring,1-3 ft,Sun;Part Shade,Clay;Loam;Rock,Low,Sidewalk;Garden,Best in rocky outcrops.,,,,,100,350,350,800
+212,Metrosideros excelsa,New Zealand Christmas tree,Tree (evergreen),Spring;Summer;Fall;Winter,> 24 ft,Sun,Loam;Sand,Low,Sidewalk,Endures wind well and is a common SF street tree.,,,,,100,350,500,800
+213,Mimulus aurantiacus,Sticky Monkeyflower,Shrub (evergreen),Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Roof,"Plant in dry areas, endures wind well. Attracts Nutall's White-crowned Sparrow, Buckeye (Junonia coenia) and Variable Checkerspot (Euphydras chalcedona) butterflies, and Anna's Hummingbird.",,,,,0,0,350,800
+214,Dodonaea viscosa,Hopseed Bush,Shrub (evergreen),,7-12 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+215,Monardella villosa,Coyote Mint,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Loam,None,Garden;Roof,Prefer dry areas. Attracts Western Fence Lizard.,,,,,0,0,350,800
+216,Morella californica,"California Wax Myrtle, Pacific Bayberry",Shrub (evergreen),Summer,13-24 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,Endures wind well. May grow as a single trunk standard tree.,,,,,350,600,350,800
+217,Muhlenbergia rigens,Deer Grass,Grass,Spring,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden;Roof,,,,,,100,350,350,800
+218,Nepeta racemosa,Cat Mint,Perennial,Summer,< 1 ft,Sun,Clay;Loam;Sand,Low,Sidewalk;Garden,,,,,,100,350,500,800
+219,Oenanthe sarmentosa,"Ditch-carrot, Water Parsley",Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,Wet grower.,,,,,350,600,350,800
+220,Oenothera elata ssp. hookeri,Hooker's Evening Primrose,Perennial,Summer,4-6 ft,Sun,Loam;Sand;Clay,None,Garden;Sidewalk;Roof,"Resilient, gets weedy, self sows. Attracts Western fence lizard and Goldfinch.",,,,,0,0,500,800
+221,Olea europaea,Olive Tree,Tree (evergreen),,> 24 ft,Sun,,None,Sidewalk,"Needs a very large basin, prefers wind protection.",,,,,0,0,500,800
+222,Penstemon centranthifolius,Scarlet Bugler,Perennial,Spring;Summer,1-3 ft,Sun,Clay,Low,Garden,,,,,,100,350,500,800
+223,Penstemon heterophyllus,Penstemon,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay,Low,Garden;Sidewalk;Roof,,,,,,100,350,350,800
+224,Persicaria amphibia,Water Smartweed,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,350,800
+225,Persicaria lapathifolia,Common Knotweed,Annual,Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,,,,,,350,600,350,800
+226,Persicaria punctata,Dotted Smartweed,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,Wet grower.,,,,,350,600,350,800
+227,Phacelia californica,California Phacelia,Perennial,Summer,1-3 ft,Sun,Clay;Loam,None,Garden;Roof,Attracts endangered Mission Blue butterfly.,,,,,0,0,500,800
+228,Phacelia malvifolia,Stinging Phacelia,Annual,Spring;Summer,1-3 ft,Sun;Part Shade,Loam;Sand;Clay,None,Garden,,,,,,0,0,350,800
+229,Phalaris californica,California Canarygrass,Grass,Spring,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden,"Rare in SF, but present on San Bruno mountain. Attracks Woodland Skipper (Ochlodes sylvanoides) butterfly.",,,,,100,350,350,800
+230,Echium candicans,Pride of Madeira,Shrub (evergreen),Spring;Summer;Fall,7-12 ft,Sun,Sand;Loam,Low,Garden,,,,,,100,350,500,800
+231,Grevillea spp.,Grevillea,Shrub (evergreen),,1-3 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+232,Phoenix dactylifera,Date Palm,Tree (evergreen),,> 24 ft,,,Low,Sidewalk,Needs a large basin and wide sidewalk.,,,,,100,350,,
+233,Pinus contorta var. contorta,Shore Pine,Tree (evergreen),Spring,> 24 ft,Sun,Loam,Moderate,Garden,,,,,,350,600,500,800
+234,Pinus muricata,Bishop Pine,Tree (evergreen) ,Spring,> 24 ft,Sun;Part Shade,Loam,Moderate,Garden,,,,,,350,600,350,800
+235,Rhamnus crocea,Redberry,Shrub (evergreen),Winter,1-3 ft,Sun;Part shade,Clay;Rock,Low,Garden,,,,,,100,350,,
+236,Pistacia chinensis 'Keith Davey',Keith Davey Chinese Pistache,Tree (deciduous),,> 24 ft,Sun;Part Shade,,Low,Sidewalk,"Prefers heat, wind protection.",,,,,100,350,350,800
+237,Pittosporum crassifolium,Seaside Pittosporum,Tree (evergreen),Spring,13-24 ft,Sun;Part Shade,,Low,Sidewalk,Tolerates wind and fog. Can leak sap from trunk.,,,,,100,350,350,800
+238,Pittosporum undulatum,Victorian Box,Tree (evergreen),Spring;Summer,> 24 ft,Sun;Part Shade,,None,Sidewalk,"Can self-sow, take care when planting near natural areas.",,,,,0,0,350,800
+239,Plantago elongata,Coastal Plantain,Annual,Spring,< 1 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,Attracts Common Buckeye (Junonia coenia) butterfly.,,,,,350,600,350,800
+240,Plantago maritima,Seaside plantain,Perennial,Spring;Summer,< 1 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,Succulent that grows on cliff faces and likes salt wind. Attracts Common Buckeye (Junonia coenia) butterfly.,,,,,100,350,350,800
+241,Platanus x acerifolia,London Plane Tree,Tree (deciduous),,> 24 ft,,,Low,Sidewalk,"Prefers wind protection, Susceptible to anthracnose and powdery mildew.",,,,,100,350,,
+242,Pluchea odorata,Salt marsh fleabane,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,350,800
+243,Podocarpus gracilior,Fern Pine,Tree (evergreen),,> 24 ft,,,Low,Sidewalk,"Better as a shrub, gets pests.",,,,,100,350,,
+244,Polygonum paronychia,Beach/Dune Knotweed,Perennial,Spring;Summer,< 1 ft,Sun,Sand,None,Sidewalk;Garden,,,,,,0,0,500,800
+245,Polypodium californicum,Polypody Fern,Fern,,1-3 ft,Part shade;Shade,Clay;Loam;Sand;Rock,Low,Sidewalk;Garden,,,,,,100,350,,
+246,Clematis lasiantha,Pipestems; Chaparral clematis,Vine,Spring,13-24 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,,,,,100,350,350,800
+247,Polystichum munitum,Western Sword Fern,Fern,,1-3 ft,Part shade;Shade,Clay;Loam,Moderate,Garden;Roof,,,,,,350,600,,
+248,Populus nigra 'Italica',Lombardy Poplar,Tree (deciduous),Winter,> 24 ft,Sun,Clay;Loam;Sand,Moderate,Garden,Attracts Lorquin's Admiral (Limenitis lorquini) butterfly.,,,,,350,600,500,800
+249,Potentilla anserina ssp. pacifica,Silverweed,Perennial,Spring,< 1 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,350,800
+250,Prunella vulgaris var. lanceolata,Self Heal,Perennial,Summer,< 1 ft,Part Shade,Clay;Loam,Moderate,Garden;Roof,,,,,,350,600,100,350
+251,Prunus cerasifera 'Krauter Vesuvius',Krauter Vesuvius Plum,Tree (deciduous),Spring,13-24 ft,Sun,,Low,Sidewalk;Garden,"Wind protection, susceptible to shot hole fungus.",,,,,100,350,500,800
+252,Zeltnera venusta,Centaury,Annual,Spring;Summer;Fall,1-3 ft,Sun;Part Shade,Loam;Clay,None,Garden,,,,,,0,0,350,800
+253,Prunus emarginata,Bitter cherry,Tree (deciduous),Spring,13-24 ft,Sun;Part Shade,Loam;Clay,Low,Garden,"Too cool of a climate to set fruit, but spreads vegetatively.  Get from SF sources. Attracts Lorquin's Admiral (Limenitis lorquini), Pale Swallowtail (Papilio eurymedon), Western Tiger Swallowtail (Papilio rutulus), Red Admiral (Vanessa atalanta).",,,,,100,350,350,800
+254,Prunus ilicifolia,Holly Leaf Cherry/Islay Cherry,Tree (evergreen),Spring;Winter,13-24 ft,Sun;Part Shade,clay;loam,None,Garden,"Attracts Lorquin's Admiral (Limenitis lorquini), Pale Swallowtail (Papilio eurymedon), Western Tiger Swallowtail (Papilio rutulus), Cedar Waxwing, Western Tiger Swallowtail (Papilio rutulus), Anise Swallowtail (Papilio zelicaon).",,,,,0,0,350,800
+255,Prunus serrulata 'Kwanzan',Kwansan Japanese Flowering Cherry,Tree (deciduous),Winter,13-24 ft,Sun,,Low,Sidewalk,Prefers wind protection .,,,,,100,350,500,800
+256,Prunus subcordata,Sierra Plum,Tree (deciduous),Winter,13-24 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,"Attracts Lorquin's Admiral (Limenitis lorquini), Pale Swallowtail (Papilio eurymedon), Western Tiger Swallowtail (Papilio rutulus), Red Admiral (Vanessa atalanta).",,,,,100,350,350,800
+257,Prunus virginiana var. demissa,Western Chokecherry,Tree (deciduous),Spring,13-24 ft,Sun;Part Shade,Clay;Loam,Low,Garden,"Attracts Lorquin's Admiral (Limenitis lorquini), Pale Swallowtail (Papilio eurymedon), Western Tiger Swallowtail (Papilio rutulus), Red Admiral (Vanessa atalanta).",,,,,100,350,350,800
+258,Pseudotsuga menziesii,Douglas Fir,Tree (evergreen),Spring,> 24 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,Low,Garden,Grow very large.,,,,,100,350,350,800
+259,Pteridium aquilinum var. pubescens,Bracken Fern,Fern,,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden;Roof,Grows everywhere – cosmopolitan fern.,,,,,100,350,350,800
+260,Pyrus calleryana 'New Bradford',New Bradford Pear,Tree (deciduous),Spring,> 24 ft,Sun,Clay;Sand,Low,Sidewalk;Garden,"Needs wind protection, susceptible to fireblight.",,,,,100,350,500,800
+261,Pyrus kawakamii,Evergreen Pear,Tree (evergreen),Spring,13-24 ft,Sun,,Low,Sidewalk;Garden,"Plant in only warmest areas of city, semi-evergreen, leaf spot/fungus likely to occur and may cause premature leaf drop, does not flower well in our climate, susceptible to fireblight.",,,,,100,350,500,800
+262,Quercus agrifolia,Coast Live Oak,Tree (evergreen),Spring;Winter,> 24 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Sidewalk;Garden,"Recommended especially for large spaces. Attracts California Sister (Adelpha bredowii californica), Propertius Dusky-Wing (Erynnis propertius), Mournful Dusky-Wing (Erynnis tristis), Chestnut-Backed Chickadee, Scrub Jays",,,,,0,0,350,800
+263,Quercus chrysolepis,Canyon Live Oak,Tree (evergreen),Spring,> 24 ft,Sun;Part Shade,Clay;Loam,None,Garden,"Attracts California Sister (Adelpha bredowii californica), Propertius Dusky-Wing (Erynnis propertius), Mournful Dusky-Wing (Erynnis tristis).",,,,,0,0,350,800
+264,Quercus suber,Cork Oak,Tree (evergreen),,> 24 ft,Sun,,Low,Sidewalk;Garden,"Needs a large basin, wide sidewalk.",,,,,100,350,500,800
+265,Ranunculus californicus,California Buttercup,Perennial,Spring;Winter,1-3 ft,Sun;Part Shade,Clay;Loam,None,Garden;Roof,,,,,,0,0,350,800
+266,Ribes sanguineum var. glutinosum,Pink Flowering Currant,Shrub (deciduous),Spring;Winter,4-6 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Sidewalk;Garden,,,,,,0,0,350,800
+267,Rosa californica,California Wild Rose,Shrub (deciduous),Spring;Summer,7-12 ft,Sun;Part shade,Clay;Loam;Sand,Low,Garden;Roof,,,,,,100,350,,
+268,Rosa gymnocarpa,Wood Rose/Dwarf Rose,Shrub (deciduous),Spring,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,,,,,100,350,350,800
+269,Rubus ursinus,California Blackberry,Shrub (deciduous),Spring;Winter,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden;Roof,With espalier can make attractive feature and good habitat. Attracts Nuttall's White-crowned Sparrow and Red Admiral (Vanessa atalanta).,,,,,0,0,350,800
+270,Rumex fueginus,Golden Dock,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,,,,,,350,600,350,800
+271,Rumex occidentalis,Western Dock,Perennial,Spring;Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,350,800
+272,Salix lasiandra,Yellow Willow,Tree (deciduous),Spring,> 24 ft,Sun,Clay;Loam;Sand,Moderate,Garden,Atrracts Mourning Cloak (Nymphalis antiopa) and Western Tiger Swallowtail (Papilio rutulus).,,,,,350,600,500,800
+273,Salix lasiolepis,Arroyo Willow,Tree (deciduous),Spring;Winter,> 24 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,Atrracts Mourning Cloak (Nymphalis antiopa) and Western Tiger Swallowtail (Papilio rutulus).,,,,,100,350,350,800
+274,Salix lutea,Yellow Willow,Shrub (deciduous),Spring,13-24 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,"Attracts Dreamy Duskywing (Erynnis icelus), Viceroy (Limenitis archippus), Lorquin's Admiral (Limenitis lorquini), Weidemeyer's Admiral (Limenitis weidemeyerii), Mourning Cloak (Nymphalis antiopa), Western Tiger Swallowtail (Papilio rutulus).",,,,,350,600,350,800
+275,Salvia apiana,California White Sage,Shrub (evergreen),Spring;Summer,4-6 ft,Sun,Clay;Loam;Sand,None,Garden;Sidewalk;Roof,,,,,,0,0,500,800
+276,Salvia clevelandii,Cleveland Sage,Shrub (evergreen),Spring;Summer,4-6 ft,Sun,Clay;Sand,None,Garden;Sidewalk;Roof,Very fragrant.,,,,,0,0,500,800
+277,Salvia leucophylla,Coast Purple Sage,Shrub (evergreen),Spring,4-6 ft,Sun,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,,,,,,0,0,500,800
+278,Salvia sonomensis,Creeping Sage,Perennial,Spring;Summer,4-6 ft,Sun,Clay;Sand,None,Garden;Sidewalk;Roof,Attracts Anna's Hummingbird.,,,,,0,0,500,800
+279,Salvia spathacea,Hummingbird Sage,Perennial,Spring;Summer;Winter,1-3 ft,Sun;Part Shade,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,Attracts Anna's Hummingbird.,,,,,0,0,350,800
+280,Sambucus nigra ssp. cerulea,Blue Elderberry,Shrub (deciduous),Spring;Summer,13-24 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,"Plant on the east side. Off-white flowers in spring, blue fruits in early summer. Attracts quail, thrashers, grosbeaks, woodpeckers, orioles, house finshes, and orange-crowned warblers.",,,,,100,350,350,800
+281,Sambucus racemosa var. racemosa,Red Elderberry,Shrub (deciduous),Summer,13-24 ft,Part shade;Shade,Loam;Clay,Low,Garden,Plant on the west side.,,,,,100,350,,
+282,Schoenoplectus acutus var. occidentalis,Tule,Perennial,Spring;Summer,4-6 ft,Sun,Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+283,Schoenoplectus californicus,California Bulrush,Perennial,Spring,4-6 ft,Sun,Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+284,Schoenoplectus pungens var. badius,Common Threesquare,Perennial,Spring;Summer,4-6 ft,Sun,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+285,Scrophularia californica,California Bee Plant,Perennial,Spring;Winter,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden;Roof,Attracts Variable Checkerspot (Euphydryas chalcedona) and Common Buckeye (Junonia coenia).,,,,,0,0,350,800
+286,Sedum spathulifolium,Broadleaf Stonecrop,Succulent,Spring;Summer,< 1 ft,Sun;Part Shade,Clay;Loam,Low,Garden;Roof,Needs water in winter / spring.,,,,,100,350,350,800
+287,Senecio hydrophilus,Marsh Ragwort,Perennial,Spring;Summer,4-6 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,350,800
+288,Sequoia sempervirens,Redwood,Tree (evergreen),Summer;Fall,> 24 ft,Sun;Part Shade;Shade,Clay;Loam,Moderate,Garden,,,,,,350,600,0,800
+289,Sisyrinchium bellum,Blue-eyed Grass,Perennial,Spring,1-3 ft,Sun;Part Shade,Clay;Loam,None,Garden;Roof,,,,,,0,0,350,800
+290,Solidago californica,Goldenrod,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+291,Solidago spathulata,Dune Goldenrod,Perennial,Spring;Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,None,Sidewalk;Garden,Attracts Monarch Butterfly (Danaus plexippus).,,,,,0,0,350,800
+292,Stipa pulchra,Purple Needlegrass,Grass,Spring,1-3 ft,Sun;Part Shade,Clay;Loam,None,Garden;Roof,Indispensable.,,,,,0,0,350,800
+293,Wyethia angustifolia,Narrowleaf Mule Ears,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam,None,Garden,Attracts endangered Fender’s Blue Butterfly.,,,,,0,0,350,800
+294,Thymus spp.,Thyme,Perennial,,1-3 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+295,Agrostis pallens,Bentgrass,Grass,Spring,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden;Roof,,,,,,100,350,350,800
+296,Artemisia douglasiana,Mugwort,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden;Roof,,,,,,100,350,350,800
+297,Carex barbarae,Santa Barbara sedge,Grass,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,Good ground cover,,,,,350,600,350,800
+298,Carpenteria californica,Bush Anemone,Shrub (evergreen),Summer,4-6 ft,Sun;Part Shade,Loam;Sand,Moderate,Sidewalk;Garden,CNPS Rare Plant; State listed as Threatened,,,,,350,600,350,800
+299,Cercocarpus betuloides,Mountain mahogany,Shrub (evergreen),Spring,7-12 ft,Sun,Loam;Sand;Clay,None,Garden,,,,,,0,0,500,800
+300,Narcissus hybrids,Daffodil or Narcissus,Perennial,,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+301,Dicentra formosa,Pacific bleeding heart,Perennial,Spring,< 1 ft,Part shade;Shade,Clay;Loam,Moderate,Garden,Good ground cover,,,,,350,600,,
+302,Equisetum hyemale,Scouring Rush Horsetail,Perennial,Spring,1-3 ft,Part shade;Shade,Clay;Loam;Sand,Moderate,Garden,Prefers moist soils,,,,,350,600,,
+303,Gaultheria shallon,Salal,Shrub (evergreen),Spring,1-3 ft,Part shade;Shade,Clay;Loam,Low,Garden,,,,,,100,350,,
+304,Juglans hindsii,California black walnut,Tree (deciduous),Spring,> 24 ft,Sun,Clay;Loam,Low,Garden,,,,,,100,350,500,800
+305,Juncus patens,Spreading rush,Grass,Spring,1-3 ft,Sun;Part shade,Clay;Loam;Sand,Low,Garden;Sidewalk;Roof,,,,,,100,350,,
+306,Melica imperfecta,Coast range melic,Grass,Spring;Winter,1-3 ft,Sun;Part shade,Clay;Loam;Sand,None,Garden;Roof,,,,,,0,0,,
+307,Mimulus cardinalis,Scarlet monkeyflower,Perennial,Spring;Summer,1-3 ft,Sun;Part shade,Clay;Loam,Moderate,Garden,,,,,,350,600,,
+308,Mimulus guttatus,Creek monkeyflower,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade;Shade,Clay;Loam,Moderate,Garden,Long blooming period,,,,,350,600,0,800
+309,Oxalis oregana,Redwood sorrel,Perennial,Spring,1-3 ft,Shade,Loam;Clay,Low,Garden,Great understory ground cover,,,,,100,350,0,100
+310,Panicum virgatum,Switchgrass,Grass,Summer;Fall;Winter,4-6 ft,Part Shade,Clay;Loam;Sand,Moderate,Garden,Seeds are good food source in winter,,,,,350,600,100,350
+311,Philadelphus lewisii,Native mock orange,Shrub (deciduous),Spring;Summer,7-12 ft,Sun;Part shade,Clay;Loam,Low,Garden,,,,,,100,350,,
+312,Physocarpus capitatus,Pacific ninebark,Shrub (deciduous),Spring;Summer,7-12 ft,Sun;Part shade;Shade,Clay;Loam,Low,Garden,,,,,,100,350,,
+313,Prosartes hookeri,Hooker's fairy bells,Perennial,Spring;Summer,1-3 ft,Part shade;Shade,Clay;Loam,Low,Garden,,,,,,100,350,,
+314,Quercus lobata,Valley oak,Tree (deciduous),Spring;Winter,> 24 ft,Sun,Clay;Loam,Low,Garden,,,,,,100,350,500,800
+315,Ribes menziesii,Canyon gooseberry,Shrub (deciduous),Spring;Winter,4-6 ft,Sun;Part shade,Clay;Loam,None,Garden,,,,,,0,0,,
+316,Ribes speciosum,Fuchsia-flowered gooseberry,Shrub (evergreen),Spring;Winter,7-12 ft,Sun;Part shade,Clay;Loam,None,Garden,,,,,,0,0,,
+317,Salix laevigata,Red willow,Tree (deciduous),Spring,> 24 ft,Sun;Part shade,Clay;Loam,Moderate,Garden,,,,,,350,600,,
+318,Sisyrinchium californicum,Yellow-eyed grass,Perennial,Spring;Summer,> 1 ft,Sun;Part shade,Clay;Loam,Moderate,Garden,prefers moist conditions,,,,,350,600,,
+319,Solanum umbelliferum,Nightshade,Perennial,Spring;Summer;Winter,1-3 ft,Sun;Part shade,Clay;Loam,None,Garden,,,,,,0,0,,
+320,Stipa lepida,Foothill needlegrass,Grass,Spring,1-3 ft,Sun,Clay;Loam,None,Garden;Roof,Good ground cover,,,,,0,0,500,800
+321,Umbellularia californica,California bay laurel,Tree (evergreen),Spring,> 24 ft,Sun;Part shade;Shade,Clay;Loam,None,Garden,Attracts small mammals,,,,,0,0,,
+322,Rosmarinus officinalis,Rosemary,Shrub (evergreen),Spring;Summer,1-3 ft,Sun,Clay;Loam,None,Sidewalk;Garden,Good ground cover,,,,,0,0,500,800
+323,Arabis blepharophylla,Rock rose cress,Perennial,Spring,7-12 ft,Part Shade,Clay;Loam,Low,Sidewalk;Roof,Does well in a rock garden,,,,,100,350,100,350
+324,Triteleia laxa,Ithuriel's Spear,Perennial,Spring;Summer,1-3 ft,Sun;Part shade,Clay;Loam,None,Garden;Sidewalk;Roof,,,,,,0,0,,
+325,Carex tumulicola,Berkley sedge,Grass,Spring,1-3 ft,Part Shade,Clay;Loam,Low,Sidewalk;Garden,,,,,,100,350,100,350
+326,Ceanothus gloriosus,Point Reyes Ceanothus,Shrub (evergreen),Spring;Winter,1-3 ft,Sun;Part shade,Clay;Loam;Sand,None,Sidewalk;Garden,,,,,,0,0,,
+327,Cynoglossum grande,Hound's Tongue,Perennial,Spring,1-3 ft,Part shade;Shade,Clay;Loam,Low,Sidewalk;Garden,,,,,,100,350,,
+328,Eriogonum fasciculatum,California Buckwheat,Shrub (evergreen),Spring;Summer;Fall,1-3 ft,Sun,Clay;Loam;Sand,None,Sidewalk;Garden,,,,,,0,0,500,800
+329,Eriogonum giganteum,California Buckwheat;St. Catherine's Lace?,Shrub (evergreen),Spring;Summer,4-6 ft,Sun,Clay;Loam;Sand,None,Sidewalk;Garden,,,,,,0,0,500,800
+330,Eriogonum umbellatum,Sulphurflower buckwheat,Perennial,Summer,1-3 ft,Sun,Clay;Loam;Sand,None,Roof;Sidewalk;Garden,,,,,,0,0,500,800
+331,Juncus effusus,Common rush,Grass,Summer,1-3 ft,Sun;Part shade,Clay;Loam,Moderate,Sidewalk;Garden,Shelter for birds,,,,,350,600,,
+332,Lathyrus vestitus,Wild Pea,Vine,Spring,7-12 ft,Sun;Part Shade,Clay;loam,Low,Garden;Sidewalk;Roof,Climbing,,,,,100,350,350,800
+333,Leptosiphon grandiflorus,Large-flower linanthus,Annual,Spring,< 1 ft,Sun,Clay;Sand,None,Sidewalk;Garden;Roof,CNPS Rare Plant,,,,,0,0,500,800
+334,Ribes aureum,Golden Currant,Shrub (deciduous),Spring,4-6 ft,Sun;Part shade,Clay;Loam;Sand,Low,Sidewalk;Garden,,,,,,100,350,,
+335,Salvia mellifera,Black sage,Shrub (evergreen),Spring;Summer,4-6 ft,Sun;Part shade,Clay;Sand,None,Garden;Sidewalk;Roof,Groundcover;Good for erosion control,,,,,0,0,,
+336,Nepeta cataria,Catnip,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+337,Silene laciniata,California Indian Pink,Perennial,Summer,1-3 ft,Sun;Part shade,Clay;Sand,None,Garden;Sidewalk;Roof,,,,,,0,0,,
+338,Lonicera hispidula,California Honeysuckle,Vine,Summer,7-12 ft,Sun;Part shade;Shade,Clay;Loam,Low,Garden;Roof,Climbing,,,,,100,350,,
+339,Thuja occidentalis,American arborvitae,Tree (evergreen),Spring,Full Grown Tree,Sun;Part Shade;Shade,Clay;Loam,None,Garden,,,,,,0,0,0,800
+340,Lavandula angustifolia 'Hidcote Superior',English Lavender,Shrub (evergreen),Summer;Fall,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+341,Lavandula 'Goodwin Creek Grey',Goodwin Creek Lavender,Shrub (evergreen),Spring;Summer;Fall;Winter,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+342,Lavandula stoechas 'Alba',Spanish White Lavender,Shrub (evergreen),Spring;Fall,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+343,Lavandula stoechas 'Willow Vale',Spanish Lavender,Shrub (evergreen),spring;summer,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+344,Lavandula dentata var. candicans,French Lavender,Shrub (evergreen),Spring;Summer;Fall;Winter,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+345,Leucadendron Salignum,Common Sunshine Conebush,Shrub (evergreen),Winter,4-6 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+346,Lupinus propinquus  ,Violet-flowered Lupine,Perennial,spring;summer,4-6 ft,Sun,,None,Sidewalk;Garden,,,,,,0,0,500,800
+347,Malvastrum lateritium,Trailing mallow,Shrub (evergreen),Summer;Fall,< 1 ft,Sun,clay;loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+348,Muhlenbergia lindheimeri,Lindheimer's muhly grass,Grass,Fall;Winter,4-6 ft,Sun;Part Shade,Clay,None,Sidewalk;Garden,,,,,,0,0,350,800
+349,Myoporum parvifolium,Myoporum,Shrub (evergreen),summer,< 1 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+350,Myrtus communis,Common Myrtle,Shrub (evergreen),Spring;Summer,4-6 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+351,Oenothera elata ssp. hirsutissima,Hairy Evening Primrose,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+352,Pelargonium sidioides,Geranium,Perennial,Spring;Summer;Fall;Winter,< 1 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+353,Philotheca verrucosa 'Starbright',Fairy Wax Flower,Shrub (evergreen),Spring;Winter,4-6 ft,Sun;Shade,Clay;Loam;Sand;Rock,None,Sidewalk;Garden,,,,,,0,0,0,750
+354,Phlomis lanata,Small Jerusalem Sage,Shrub (evergreen),Spring;Summer;Fall;Winter,1-3 ft,Sun,Clay;Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+355,Phormium 'Dusky Chief',New Zealand Flax,Perennial,,1-3 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+356,Phormium 'Jack Spratt',New Zealand Flax,Perennial,,1-3 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+357,Phormium 'Tiny Tiger',Dwarf Variegated New Zealand Flax,Perennial,Spring;Summer,< 1 ft,Sun;Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,0,750
+358,Phormium 'Yellow Wave',New Zealand Flax,Perennial,,1-3 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+359,Phyla nodiflora,Turkey Tangle Fogfruit,Perennial,Spring;Summer;Fall,< 1 ft,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+360,Plantago erecta,Prarie Plantain,Annual,Spring,< 1 ft,Sun,Clay;Sand,None,Garden;Sidewalk;Roof,,,,,,0,0,500,800
+361,Potentilla fruticosa,Shrubby Cinquefoil,Shrub (evergreen),Summer;Fall,< 1 ft,Sun;Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,0,750
+362,Rhagodia spinescens,Australian Thorny Saltbush,Shrub (evergreen),,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+363,Rhaphiolepis Indica 'Ballerina',Indian hawthorn,Shrub (evergreen),Spring;Fall,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+364,Rosmarinus officinalis 'Prostratus',"Prostrate Rosemary, Creeping Rosemary",Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+365,Rubus pentalobus,Bramble,Shrub (evergreen),Summer,< 1 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+366,Rudbeckia californica,California coneflower,Perennial,Summer;Fall,4-6 ft,Sun;Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,0,750
+367,Salvia 'Bee's Bliss',Bee's Bliss Sage,Perennial,Spring,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+368,Salvia greggii 'Alba',Autumn Sage,Shrub (evergreen),Summer;Fall,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+369,Salvia greggii 'Salmon',Salmon Texas Sage,Shrub (evergreen),Spring;Fall,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+370,Salvia leucantha,"Mexican Bush Sage, Velvet Sage",Shrub (evergreen),Summer;Fall,4-6 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+371,Santolina chamaecyparissus,Lavender Cotton,Shrub (evergreen),Spring;Summer,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+372,Scilla peruviana    ,Peruvian Scilla,Perennial,Spring,< 1 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+373,Sedum pachyphyllum,Stonecrop,Succulent,Summer,1-3 ft,Sun,Sand;Loam,None,Roof;Sidewalk;Garden,,,,,,0,0,500,800
+374,Sedum palmeri,Hens and Chicks,Succulent,Spring;Winter,< 1 ft,Sun;Shade,Sand;Loam,None,Roof;Sidewalk;Garden,,,,,,0,0,0,750
+375,Sedum rubrotinctum,Pork and Beans,Succulent,Spring;Winter,< 1 ft,Part Shade,Sand;Loam,None,Garden;Sidewalk;Roof,,,,,,0,0,100,350
+376,Silene californica ,California Indian Pink,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+377,Sempervivum montanum,Houseleek,Succulent,Summer,< 1 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+378,Senecio amaniensis,Amani Senecio,Succulent,Summer,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+379,Senecio cineraria,Dusty Miller,Succulent,Spring;Summer;Fall;Winter,1-3 ft,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+380,Senecio mandraliscae,Blue finger,Succulent,Summer,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+381,Senecio scaposus,,Succulent,Summer,< 1 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+382,Solanum jasminoides,Potato Vine,Vine,Summer;Fall,> 24 ft,Sun;Part Shade,Sand;Loam;Clay,None,Sidewalk;Garden,,,,,,0,0,350,800
+383,Sollya heterophylla (Billardiera heterophylla),Australian Bluebell Creeper,Shrub (evergreen),Spring;Summer;Fall,1-3 ft,Part shade;Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,,
+384,Stipa arundinacea,Feather Grass,Grass,Summer,1-3 ft,Sun,Sand;Loam;Clay,None,Sidewalk;Garden,,,,,,0,0,500,800
+385,Tecomaria capensis,Cape Honeysuckle,Vine,Spring;Fall;Winter,13-24 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+386,Thymus serpyllum (var. 'Elfin'),Creeping Thyme,Perennial,Summer,< 1 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+387,Trifolium repens,White Clover,Perennial,Summer,< 1 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+388,Verbena lilacina 'De La Mina',Cedros Island Verbena,Perennial,Spring;summer,1-3 ft,Sun;Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,0,750
+389,Penstemon heterophyllus varieties,Penstemon,Perennial,Spring;summer,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+390,Linaria purpurea,Purple Toadflax,Perennial,Spring;Summer;Fall;Winter,,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+391,Rudbeckia hirta,Black-eyed Susan,Perennial,Spring;Summer;Fall;Winter,1-3 ft,Sun,Clay;Sand;Loam,None,Garden,,,,,,0,0,500,800
+392,Salvia 'Indigo Spires',Indigo Spires sage,Perennial,Spring;Summer;Fall;Winter,1-3 ft,Sun;part shade,Sand;Loam,None,Garden,,,,,,0,0,,
+393,Phacelia cicutaria,Caterpillar phacelia,Annual,Spring;Summer,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+394,Phacelia tanacetifolia,Tansy phacelia,Annual,Spring;Summer,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+395,Salvia brandegeei,Brandegee sage,Perennial,Spring;Summer;Fall;Winter,1-3 ft,Sun,Sand;Loam,None,Garden;Roof,,,,,,0,0,500,800
+396,Salvia munzii,Munz's sage,Perennial,Spring;Summer;Fall;Winter,4-6 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+397,Phacelia distans,Distant phacelia,Annual,Spring;Summer,1-3 ft,Sun;Shade,Sand;Loam,None,Garden,,,,,,0,0,0,750
+398,Phacelia viscida,Sticky phacelia,Annual,Spring;Summer,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+399,Bidens aurea,Arizona beggarticks,Perennial,Summer;Fall,1-3 ft,Sun,Sand;Loam,Low,Garden,,,,,,100,350,500,800
+400,Gaillardia aristata,Blanket flower,Perennial,Summer;Fall,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+401,Helianthus annuus,Sunflower,Annual,Summer;Fall,1-3 ft,Sun,Sand;Loam,Low,Garden,,,,,,100,350,500,800
+402,Salvia uliginosa,Bog sage,Perennial,Summer;Fall,1-3 ft,sun;part shade,Sand;Loam,Moderate,Garden,,,,,,350,600,,
+403,Borago officinalis,Borage,Annual,Spring,1-3 ft,Sun;part shade,Sand;Loam,None,Garden,,,,,,0,0,,
+404,Calendula spp.,Pot Marigold,Perennial,Spring,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+405,Chilopsis linearis,Desert Willow,Perennial,Spring,4-6 ft,Sun,Sand;Loam,Low,Garden,,,,,,100,350,500,800
+406,Coreopsis verticillata,Whorled Tickseed,Perennial,Spring;summer,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+407,Echium plantagineum,Salvation Jane,Perennial,Spring,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+408,Encelia farinosa,Brittlebush,Perennial,Spring,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+409,Gilia achilleifolia,California Gilia,Annual,Spring,1-3 ft,Sun;Shade,Sand;Loam,None,Garden,,,,,,0,0,0,750
+410,Helenium puberulum,Sneezeweed,Perennial,Spring,1-3 ft,Sun,Sand;Loam,Moderate,Garden,,,,,,350,600,500,800
+411,Layia platyglossa,Tidytips,Annual,Spring,1-3 ft,Sun,Sand;Loam,None,Garden;Roof,,,,,,0,0,500,800
+412,Mentzelia lindleyi,Blazing Star,Annual,Spring,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+413,Penstemon parryi,"Desert Penstemon, Parry's beardtongue",Perennial,Spring,1-3 ft,Sun;Shade,Clay;Loam;Sand;Rock,None,Garden,,,,,,0,0,0,750
+414,Phacelia grandiflora,Large-flower phacelia,Annual,Spring,1-3 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+415,Schoenoplectus maritimus,Prairie bulrush,Grass,Fall,4-6 ft,Sun,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+416,Santolina spp.,santolina,Shrub (evergreen),Summer,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+417,Poa unilateralis,San Francisco bluegrass,Grass,Spring,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+418,Platanus racemosa,California sycamore,Tree (deciduous),Spring;Winter,Full Grown Tree,Sun,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+419,Platanus occidentalis,American sycamore,Tree (deciduous),Spring,Full Grown Tree,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+420,Plantago subnuda,tall coastal plantain,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,,,,,,350,600,350,800
+421,Pellaea andromedifolia,coffee fern,Fern,,1-3 ft,Sun,Sand,None,Garden,,,,,,0,0,500,800
+422,Nyssa sylvatica,"tupelo, black gum",Tree (deciduous),Spring;summer,Full Grown Tree,Sun;Part Shade;Shade,Loam;Sand,Moderate,Garden,,,,,,350,600,0,800
+423,Nepeta spp.,catmint,Perennial,Summer;Fall,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+424,Morus alba,White mulberry,Tree (deciduous),Spring,Full Grown Tree,Sun,Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+425,Monardella villosa franciscana,San Francisco coyote mint,Perennial,Spring;Summer,1-3 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+426,Carya illinoinensis,pecan,Tree (deciduous),Spring,> 24 ft,Sun,Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+427,Melaleuca viridiflora rubriflora (Melaleuca quinquenervia),Cajeput tree,Tree (evergreen),Summer;Fall,Full Grown Tree,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+428,Melaleuca viminalis (Callistemon viminalis),Weeping bottle brush,Tree (evergreen),Spring;Summer;Fall;Winter,> 24 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+429,Eucalyptus erythrocorys,red-cap gum,Tree (evergreen),Spring;Summer;Fall;Winter,> 24 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+430,Eriogonum parvifolium,dune buckwheat,Perennial,Spring;Summer;Fall;Winter,1-3 ft,Sun,Clay;Loam;Sand,None,Garden;Roof,,,,,,0,0,500,800
+431,Erigeron foliosus var. franciscensis,San Francisco leafy fleabane,Perennial,Summer;Fall,1-3 ft,Sun;Shade,Clay;Loam;Sand,None,Garden,,,,,,0,0,0,750
+432,Elymus trachycaulus,slender wheatgrass,Grass,Spring,1-3 ft,Sun,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+433,Eleocharis palustris,creeping spikerush,Grass,Summer,1-3 ft,Sun,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+434,Dryopteris expansa,spreading wood fern,Fern,,1-3 ft,Part shade;Shade,Clay;Loam,Low,Garden,,,,,,100,350,,
+435,Delphinium californicum,California larkspur,Perennial,Spring;Summer,4-6 ft,Sun,Clay;Loam;Sand,None,Garden,,,,,,0,0,500,800
+436,Corymbia citriodora (Eucalyptus citriodora),lemon-scented gum,Tree (evergreen),Summer;Fall;Winter,> 24 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+437,Cistus spp.,rockrose,Shrub (evergreen),Spring;Summer,4-6 ft,Sun;Part Shade,Loam;Sand,Low,Garden,,,,,,100,350,350,800
+438,Chionanthus retusus,Chinese fringe tree,Tree (deciduous),Spring;Summer;Fall,Full Grown Tree,Sun,Loam,Low,Garden,,,,,,100,350,500,800
+439,Chamaemelum nobile,chamomile,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Sidewalk;Garden,,,,,,100,350,350,800
+440,Cerastium arvense,field chickweed,Perennial,Spring,1-3 ft,Sun,Clay;Loam;Sand,None,Garden,,,,,,0,0,500,800
+441,Cephalanthus occidentalis,buttonbush,Shrub (deciduous),Fall,7-12 ft,Sun;Part Shade,Loam,Moderate,Garden,,,,,,350,600,350,800
+442,Celtis laevigata,common hackberry,Tree (deciduous),Spring;Winter,> 24 ft,Sun;Part Shade,Loam,Low,Garden,,,,,,100,350,350,800
+443,Casuarina cunninghamiana,river she-oak,Tree (deciduous),Spring;Summer,> 24 ft,Sun,Sand,Low,Garden,,,,,,100,350,500,800
+444,Carex obnupta,slough sedge,Perennial,Spring,4-6 ft,Sun;Part Shade,Clay;Loam,Moderate,Garden,,,,,,350,600,350,800
+445,Carex densa,dense sedge,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,,,,,100,350,350,800
+446,Bouteloua gracilis,blue grama,Grass,Summer,< 1 ft,Sun,Clay;Loam;Sand,None,Garden,,,,,,0,0,500,800
+447,Betula spp.,birch,Tree (deciduous),Spring,> 24 ft,Sun,Clay;Loam,Moderate,Garden,,,,,,350,600,500,800
+448,Betula occidentalis,water birch,Tree (deciduous),Spring,7-12 ft,Sun,Clay;Loam,Moderate,Garden,,,,,,350,600,500,800
+449,Berberis thunbergii,Japanese barberry,Shrub (deciduous),Spring,4-6 ft,Sun;Part Shade,Loam;Sand,Low,Garden,,,,,,100,350,350,800
+450,Berberis aquifolium repens,creeping Oregon grape,Shrub (evergreen),Spring,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,,,,,100,350,350,800
+451,Berberis aquifolium,barberry;Mountain grape,Shrub (evergreen),Spring;Winter,4-6 ft,Sun;Part Shade;Shade,Loam;Sand,Low,Garden,,,,,,100,350,0,800
+452,Baccharis salicifolia,mule-fat,Shrub (evergreen),Spring;Summer;Fall;Winter,7-12 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+453,Extriplex californica,California saltbush,Perennial,Spring,1-3 ft,Sun,Clay,Low,Garden,,,,,,100,350,500,800
+454,Eurybia radulina,rough-leaved aster,Perennial,Summer;Fall,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+455,Asclepias speciosa,showy milkweed,Perennial,Summer,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,,,,,,100,350,350,800
+456,Arctostaphylos tomentosa crustacea Arctostaphylos 'Emerald Carpet',Lake Merced brittleleaf manzanita,Shrub (evergreen),Spring;Winter,< 1 ft,Sun;Part Shade,Loam,Low,Garden,,,,,,100,350,350,800
+457,Alopecurus saccatus,Pacific foxtail,Grass,Spring,1-3 ft,Sun,Clay;Loam,Low,Garden,,,,,,100,350,500,800
+458,Agrostis hallii,Hall's bentgrass,Grass,Spring;Summer,1-3 ft,Sun,Clay;Loam;Sand,None,Garden,,,,,,0,0,500,800
+459,Agrostis exarata,bentgrass,Grass,Spring,1-3 ft,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+460,Adiantum jordanii,California maidenhair fern,Fern,,1-3 ft,Part shade;Shade,Clay;Loam,Moderate,Garden,,,,,,350,600,,
+461,Banksia integrifolia,Coastal Banksia,Tree (evergreen),Spring,> 24 ft,Sun,clay;Sand,Moderate,Sidewalk,,,,,,350,600,500,800
+462,Brachychiton populneum,"Kurrajong, Bottle Tree",Tree (evergreen),Summer,> 24 ft,Sun,clay;Sand,Moderate,Sidewalk,,,,,,350,600,500,800
+463,Cassia leptophylla,Gold Medallion Tree,Tree (evergreen),Summer,> 24 ft,Sun,,Low,Sidewalk,,,,,,100,350,500,800
+464,Eucalyptus conferruminata - Eucalyptus Lehmanni,"Spider gum, bushy yate",Tree (deciduous),Spring;Summer,13-24 ft,,Sand;Loam,Low,Sidewalk,,,,,,100,350,,
+465,Magnolia x soulangeana ‘Rustica Rubra’ and other varieties,saucer Magnolia,Tree (deciduous),Spring;Summer;Fall,13-24 ft,Sun;Shade,Clay,Moderate,Sidewalk,,,,,,350,600,0,750
+466,Pittosporum eugenioides,"Lemonwood, Tarata",Shrub (evergreen),Spring,> 24 ft,Sun;Shade,,Low,Sidewalk,,,,,,100,350,0,750
+467,Pittosporum rhombifolium (Auranticarpa rhombifolia),Diamond Leaf Pittosporum,Tree (evergreen),Spring;Summer,> 24 ft,Sun;Shade,,Moderate,Sidewalk,,,,,,350,600,0,750
+468,Platanus x acerifolia ‘Liberty’,London Plane Tree,Tree (deciduous),,> 24 ft,Sun,,Moderate,Sidewalk,,,,,,350,600,500,800
+469,Quercus frainetto ‘Forest Green’,Hungarian oak,Tree (deciduous),Spring,> 24 ft,Sun,Clay,Low,Sidewalk,,,,,,100,350,500,800
+470,Quercus ilex,Holly oak,Tree (evergreen),Spring;Summer,> 24 ft,,Sand;Loam,Low,Sidewalk,,,,,,100,350,,
+471,Quercus phellos,Willow Oak,Tree (deciduous),Spring;Summer,> 24 ft,Sun,Clay;Loam,Moderate,Sidewalk,,,,,,350,600,500,800
+472,Quercus tomentella,Island Live Oak,Tree (evergreen),Spring;Summer,> 24 ft,Sun;Shade,Sand;Loam,Low,Sidewalk,,,,,,100,350,0,750
+473,Quercus virginiana,Virginia Live Oak,Tree (evergreen),Spring,> 24 ft,,Clay;Loam;Sand,Low,Sidewalk,,,,,,100,350,,
+474,Quillaja saponaria,Soapbark Tree,Tree (evergreen),Summer,> 24 ft,Sun,,Low,Sidewalk,,,,,,100,350,500,800
+475,Ulmus japonica x wilsoniana ‘Accolade’,Accolade Elm,Tree (deciduous),Spring,> 24 ft,Sun,Clay;Loam;Sand,Low,Sidewalk,,,,,,100,350,500,800
+476,Ulmus parvifolia x carpinifolia ‘Frontier’,Frontier Hybrid Elm,Tree (deciduous),Fall,> 24 ft,Sun,,Moderate,Sidewalk,,,,,,350,600,500,800
+477,Hebe spp.,Hebe,Shrub (evergreen),,1-3 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+478,Helianthemum nummularium,Sunrose,Shrub (evergreen),,1-3 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+479,Ilex vomitoria,Yaupon,Shrub (evergreen),Spring,7-12 ft,Sun;Part shade,Clay;Sand;Loam,Low,Garden,,,,,,100,350,,
+480,Lantana montevidensis,Trailing Lantana,Shrub (evergreen),Spring;Summer;Fall;Winter,4-6 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+481,Larrea tridentata,Creosote Bush,Shrub (evergreen),Spring;Summer;Fall;Winter,4-6 ft,Sun,Many,None,Garden,,,,,,0,0,500,800
+482,Lavatera  assurgentiflora,Tree Mallow,Shrub (evergreen),Spring;Summer;Fall,7-12 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+483,Leonotis leonurus,Lion's Tail,Shrub (evergreen),Spring;Summer;Fall;Winter,13-24 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+484,Viguiera parishii,Desert Goldeneye,Perennial,Spring;Summer,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+485,Leucophyllum spp.,Texas Ranger,Shrub (evergreen),Summer;Fall,4-6 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+486,Leucospermum spp.          ,Pincushion Plant,Shrub (evergreen),Spring;Winter,4-6 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+487,Lupinus spp.,Lupine,Shrub (evergreen),,Varies,Sun,,None,Garden,,,,,,0,0,500,800
+488,Lupinus argenteus,Silvery Lupine,Shrub (evergreen),Summer,,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+489,Melianthus major,Honey Bush,Shrub (evergreen),Spring;Winter,7-12 ft,Part Shade,,Low,Garden,,,,,,100,350,100,350
+490,Nandina domestica,"	Heavenly Bamboo",Shrub (evergreen),Spring;Summer,4-6 ft,Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,100,350
+491,Polygala fruticosa ‘petite butterflies',Sweet Pea Shrub,Shrub (evergreen),Spring;Summer;Fall;Winter,1-3 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+492,Prunus lusitanica,Portugal Laurel,Tree (evergreen),,13-24 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+493,Punica granatum 'nana',Dwarf Pomegranate,Shrub (evergreen),Spring;Summer;Fall;Winter,4-6 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+494,Rhaphiolepis indica,Indian Hawthorne,Shrub (evergreen),Spring,4-6 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+495,Rhus integrifolia,Lemonade Berry,Shrub (evergreen),Spring,7-12 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+496,Ribes malvaceum,chaparral currant,Shrub (evergreen),Spring;Winter,4-6 ft,Sun;Part shade,Sand;Loam,None,Garden,,,,,,0,0,,
+497,Sarcococca hookeriana humilis,Sweet Sarcococca,Shrub (evergreen),Spring,4-6 ft,Part Shade;Shade,,Low,Sidewalk;Garden,,,,,,100,350,0,350
+498,Teucrium fruticans,Bush Germander,Shrub (evergreen),Summer;Fall,4-6 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+499,Trichostema lanatum,Woolly Blue Curls,Shrub (evergreen),Spring;Summer,4-6 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+500,Vitex agnus-castus,Chaste Tree,Shrub (evergreen),Spring;Summer,7-12 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+501,Westringia fruticosa,Coast Rosemary,Shrub (evergreen),Spring;Summer;Fall;Winter,7-12 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+502,Achillea spp.,Yarrow,Perennial,,Varies,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+503,Anigozanthos spp.,Kangaroo Paw,Perennial,,1-3 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+504,Arum italicum,Italian Arum,Perennial,Spring;Summer,< 1 ft,Part Shade;Shade,Sand;Loam,None,Garden,,,,,,0,0,0,350
+505,Ballota pseudodictamnus,Grecian Horehound,Perennial,Summer,1-3 ft,Sun,,None,Garden,,,,,,0,0,500,800
+506,Beaucarnea recurvata,Ponytail palm,Perennial,Spring;Summer,7-12 ft,Sun,Sand;Loam;Clay,None,Garden,,,,,,0,0,500,800
+507,Brodiaea spp.,Brodiaea,Perennial,,1-3 ft,Sun,Rock,None,Sidewalk;Garden,,,,,,0,0,500,800
+508,Calandrinia spectabilis,Rock Purslane,Succulent,Spring;Summer,1-3 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+509,Erigeron spp.,Seaside Daisy,Perennial,,1-3 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+510,Dymondia margaretae,Dymondia,Perennial,Summer,< 1 ft,Sun;Part shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,,
+511,Erigeron karvinskianus,Latin American fleabane,Perennial,Spring;Summer,,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+512,Geranium incanum,Carpet Geranium,Perennial,Spring;Summer,1-3 ft,Sun;Part shade,Sand;Loam,Low,Garden,,,,,,100,350,,
+513,Helleborus argutifolius,Corsican Hellebore,Perennial,Spring;Fall,1-3 ft,Part Shade,Sand;Loam,Low,Garden,,,,,,100,350,100,350
+514,Iberis sempervirens,Evergreen Candy Tuft,Perennial,Spring,1-3 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+515,Kniphofia uvaria,Red Hot Poker,Perennial,Spring;Summer;Winter,1-3 ft,Sun;Part shade,Sand;Loam,Low,Garden,,,,,,100,350,,
+516,Lessingia filaginifolia,California Aster,Perennial,Summer;Fall,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+517,Libertia peregrinans,Orange Libertia,Perennial,Spring,1-3 ft,Sun;Part shade,,Low,Sidewalk;Garden,,,,,,100,350,,
+518,Limonium perezii            ,Sea Lavender,Perennial,Summer,1-3 ft,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+519,Lobelia laxiflora,Mexican Lobelia,Perennial,Summer,4-6 ft,Sun;Part shade,Sand;Loam;Clay,Low,Sidewalk;Garden,,,,,,100,350,,
+520,Lomandra Longifolia ‘Breeze’,Lomondra,Grass,Summer,1-3 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+521,Lotus berthelotii,Parrot's Beak,Perennial,Summer,1-3 ft,Sun;Part shade,,Low,Sidewalk;Garden,,,,,,100,350,,
+522,Monardella macrantha,red monardella,Perennial,Summer;Fall,,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+523,Nepeta x faassenii,Catmint,Perennial,Summer;Fall,1-3 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+524,Oenothera speciosa,Mexican Evening Primrose,Perennial,Summer;Fall,1-3 ft,Sun;Part shade,Sand;Loam,Low,Garden,,,,,,100,350,,
+525,Osteospermum fruitcosum,African Daisy,Perennial,Summer,1-3 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+526,Penstemon spp.,Penstemon,Perennial,,1-3 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+527,Penstemon pinifolius,Pineneedle Beardtongue,Perennial,Spring;Summer,1-3 ft,Part Shade,Sand;Loam,Low,Garden,,,,,,100,350,100,350
+528,Perovskia atriplicifolia,Russian Sage,Perennial,Summer;Fall,1-3 ft,Sun,Sand;Loam,Low,Garden,,,,,,100,350,500,800
+529,Phormium tenax,New Zealand Flax,Perennial,Spring,4-6 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+530,Puya spp.,Puya,Perennial,,7-12 ft,Sun,,None,Garden,,,,,,0,0,500,800
+531,Romneya coulteri,Matilija Poppy,Perennial,Spring;Summer,7-12 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+532,Salvia  spp.,Salvia,Perennial,,4-6 ft,Sun,,None,Garden,,,,,,0,0,500,800
+533,Sphaeralcea ambigua,Globe Mallow,Perennial,Spring,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+534,Tanacetum parthenium,Feverfew,Perennial,Summer,1-3 ft,Sun,Sand;Loam,Low,Garden,,,,,,100,350,500,800
+535,Aeonium spp.,Canary Island Rose,Shrub (evergreen),,1-3 ft,Sun;Part shade,,Low,Sidewalk;Garden,,,,,,100,350,,
+536,Agave spp.,Agave,Shrub (evergreen),,Varies,Sun;Part shade,,None,Garden,,,,,,0,0,,
+537,Aloe spp.,Aloe,Shrub (evergreen),,Varies,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+538,Blechnum spicant,Deer Fern,Fern,,1-3 ft,Part Shade;Shade,Loam;sand,Low,Garden,,,,,,100,350,0,350
+539,Bulbine frutescens,Stalked bulbine,Shrub (evergreen),Spring;Summer,1-3 ft,Part Shade,,Low,Garden,,,,,,100,350,100,350
+540,Bougainvillea spp.,Bougainvillea,Vine,,13-24 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+541,Calystegia macrostegia,California Morning Glory,Vine,Spring;Summer,13-24 ft,Sun,Loam;sand,None,Garden,,,,,,0,0,500,800
+542,Chamaerops humilis,Mediterranean Fan Palm ,Palm,,13-24 ft,Sun;Part Shade,,Low,Garden,,,,,,100,350,350,800
+543,Clematis spp.,Clematis,Vine,,7-12 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+544,Cotyledon orbiculata      ,"Cotyledon, Pigs Ears",Succulent,Summer,1-3 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+545,Delosperma cooperi,Cooper's Ice Plant,Shrub (evergreen),Summer;Fall,1-3 ft,Sun;Part Shade,Sand,Low,Sidewalk;Garden,,,,,,100,350,350,800
+546,Echeveria elegans,Hens and Chicks,succulent,Spring;summer,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+547,Graptopetalum paraguayense,Ghost Plant,succulent,Spring,< 1 ft,Sun;Part Shade,,None,Garden,,,,,,0,0,350,800
+548,Gomphrena globosa,Globe Amaranth,Annual,Summer;Fall,1-3 ft,Sun;Part shade,Clay;Sand;Loam,Low,Garden,,,,,,100,350,,
+549,Helicotrichon sempervirons,Blue Oat Grass,Grass,Summer,1-3 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+550,Lampranthus spectabilis,Trailing Ice Plant,Shrub (evergreen),Spring;summer,1-3 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+551,Elymus condensatus,Giant Wild Rye,Grass,Summer,7-12 ft,Sun;Part shade,Clay;loam,None,Garden;Roof,,,,,,0,0,,
+552,Rhodocoma arida,Rhodocoma,Grass,Fall;Winter,4-6 ft,Sun;Part Shade,,Low,Garden,,,,,,100,350,350,800
+553,Rosa banksiae,Lady Banks Rose,Vine,Spring,13-24 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+554,Sedum spp.,Stonecrop,Shrub (evergreen),,Varies,Sun;Part Shade,,Low,Garden,,,,,,100,350,350,800
+555,Senecio spp.,Blue Chalk Stalks,Shrub (evergreen),,1-3 ft,Sun;Part Shade,,Low,Garden,,,,,,100,350,350,800
+556,Yucca spp.,Bright Star Yucca,Shrub (evergreen),,Varies,Sun,,None,Garden,,,,,,0,0,500,800
+557,Ribes spp.,Red flowering currant,Shrub (evergreen),,7-12 ft,Sun;Part Shade,,Low,Garden,,,,,,100,350,350,800
+558,Eriogonum spp.,California Buckwheat,Perennial,,4-6 ft,Sun,,None,Sidewalk;Garden,,,,,,0,0,500,800
+559,Achillea clavennae,Silver yarrow,Perennial,Summer;Fall,< 1 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+560,Aeonium arboreum varieties,Tree aenium,Succulent,Summer,1-3 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+561,Aeonium decorum varieties,Green pinwheel,Succulent,Summer,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+562,Agapanthus hybrids,Lily-of-the-Nile,Perennial,Summer;Fall,1-3 ft,Sun;Part Shade,Sand;Loam;Clay,Low,Sidewalk;Garden,,,,,,100,350,350,800
+563,Agave bracteosa 'Mediopicta Alba','Mediopicta Alba' Squid,Succulent,,1-3 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+564,Agave attenuata 'Nova',Nova,Succulent,,1-3 ft,Sun;Part Shade;Shade,,Low,Sidewalk;Garden,,,,,,100,350,0,800
+565,Aloe 'Johnson's hybrid','Johnson's hybrid',Succulent,Spring;Summer;Fall;Winter,< 1 ft,Sun;Part Shade,Loam;sand,Low,Sidewalk;Garden,,,,,,100,350,350,800
+566,Anemone x hybrida,Japanese Anemon,Perennial,Summer;Fall,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+567,Anigozanthos hybrids,Kangaroo Paw,Perennial,,1-3 ft,Sun,Sand,Low,Sidewalk;Garden,,,,,,100,350,500,800
+568,Arctostaphylos uva ursi 'Radiant',Radiant Bearberry,Shrub (evergreen),Spring;Winter,< 1 ft,Sun;Part Shade,Many,None,Sidewalk;Garden,,,,,,0,0,350,800
+569,Artemisia 'Powis Castle',Silver Sage,Perennial,,1-3 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+570,Artemisia pycnocephala 'David's Choice ',Sandhill sage,Perennial,Spring;Summer,1-3 ft,Sun,,None,Sidewalk;Garden,,,,,,0,0,500,800
+571,Bouteloua dactyloides,Buffalo Grass,Perennial,Spring,< 1 ft,Sun,clay;loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+572,Calamagrostis foliosa,Cape Mendicino Reed Grass,Perennial,Summer;Fall,1-3 ft,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+573,Carex buchananii,Leather leaf sedge,Shrub (evergreen),Summer,1-3 ft,Sun;Part Shade,,Moderate,Sidewalk;Garden,,,,,,350,600,350,800
+574,Carex texensis,Catlin sedge,Shrub (evergreen),Summer,< 1 ft,Part shade;Shade,,Low,Sidewalk;Garden,,,,,,100,350,,
+575,Ceanothus griseus horizontalis,Carmel creeper,Shrub (evergreen),Spring;Winter,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+576,Ceanothus thyrsiflorus repens,Low Blue Blossom,Shrub (evergreen),,1-3 ft,Sun;Part Shade,Clay;loam;Sand,None,Sidewalk;Garden,,,,,,0,0,350,800
+577,Cistus 'Sunset',Magenta rockrose,Shrub (evergreen),Spring;Summer,1-3 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+578,Clivia miniata,Orange Clivia,Perennial,Spring;Summer;Fall;Winter,1-3 ft,Part shade;Shade,,,Garden;Potted Plant;Sidewalk,,,,,,,,,
+579,Convolvulus cneorum,Bush morninglory,Shrub (evergreen),Spring;Summer;Fall,1-3 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+580,Coprosma petriei  'Verde Vista',Creeping coprosma,Shrub (evergreen),,1-3 ft,Sun;Part Shade,,None,Sidewalk;Garden,,,,,,0,0,350,800
+581,Cordyline 'Electric Pink',Electric Pink Grass Tree,Perennial,Spring,4-6 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+582,Correa 'Dusky Bells',Australian fuschia,Shrub (evergreen),Spring,1-3 ft,Sun;Part Shade;Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,0,800
+583,Correa 'Ivory Bells',Australian fuschia,Shrub (evergreen),Spring,1-3 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+584,Cotoneaster dammeri 'LowFast',Bearberry Cotoneaster,Shrub (evergreen),Spring,< 1 ft,Sun;Part Shade;Shade,,Low,Sidewalk;Garden,,,,,,100,350,0,800
+585,Crassula ovata,Jade Plant,Succulent,Spring;Winter,< 1 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+586,Crassula multicava,Cape Province Pygmyweed,Succulent,Winter,< 1 ft,Sun;Part Shade;Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,0,800
+587,Cyclamen hederifolium,Persian Violet,Perennial,Summer;Fall,< 1 ft,Sun;Part Shade;Shade,,Low,Sidewalk;Garden,,,,,,100,350,0,800
+588,Dianella tasmanica variegata,Flax Lily,Grass,Spring,1-3 ft,Sun,,,Sidewalk;Garden,,,,,,,,500,800
+589,Dietes bicolor,Fortnight Lily,Perennial,Spring;Fall,1-3 ft,Sun;Part Shade,Sand;Loam,Low;Moderate,Sidewalk;Garden,,,,,,,,350,800
+590,Dietes iridioides,African Iris,Perennial,Spring;Fall,1-3 ft,Sun;Part Shade,,,Sidewalk;Garden,,,,,,,,350,800
+591,Distictis buccinatoria,Blood Red Trumpet Vine,Vine,Summer,13-24 ft,Sun,,,Sidewalk;Garden,,,,,,,,500,800
+592,Drosanthemum floribundum,Rosea Ice Plant,Perennial,Spring;Summer,< 1 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+593,Dryas octopetala,Mountain Dryad,Perennial,Spring;Summer,1-3 ft,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+594,Echeveria agavoides 'Maria',Wax Agave,Succulent,Spring;Summer,< 1 ft,Sun;Part Shade,,Low,Garden;Sidewalk;Roof,,,,,,100,350,350,800
+595,Echeveria 'Blue Bedder',,Succulent,Spring;Winter,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+596,Echeveria harmsii,Echeveria,Succulent,Spring;Summer;Fall;Winter,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+597,Echeveria imbricata,Hens and Chicks,Succulent,Spring;Summer,< 1 ft,Sun;Part Shade,,Low,Garden;Sidewalk;Roof,,,,,,100,350,350,800
+598,Echeveria juarezensis,Juareze Hens and Chicks,Succulent,summer,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+599,Elymus magellanicus,"Blue Wheatgrass, Magellan Wheatgrass",Grass,Spring;Summer,1-3 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+600,Epilobium septentrionale,Humboldt County Fuchsia,Perennial,Summer,< 1 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+601,Eriogonum grande rubescens  ,Red buckwheat,Perennial,Summer;Fall,< 1 ft,Sun,Sand;Loam;Clay,None,Sidewalk;Garden,,,,,,0,0,500,800
+602,Euphorbia amygdaloides,wood spurge,Perennial,Spring;Summer,1-3 ft,Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,100,350
+603,Euphorbia x. martinii,,Perennial,Spring,1-3 ft,Sun;Part Shade,,Moderate,Sidewalk;Garden,,,,,,350,600,350,800
+604,Graptosedum 'Vera Higgins',,Succulent,Spring;Summer,1-3 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+605,Graptoveria 'Fred Ives',,Succulent,Summer,1-3 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+606,Graptoveria 'Debbi',,Succulent,Spring;Summer;Winter,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+607,Grevillea lanigera 'Coastal Gem',,Shrub (evergreen),Spring;Summer;Fall;Winter,< 1 ft,Sun;Part Shade,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+608,Grevillea 'Magic Lantern',,Shrub (evergreen),Spring;Fall,1-3 ft,Sun;Part Shade,Sand,Low,Sidewalk;Garden,,,,,,100,350,350,800
+609,Hardenbergia violacea,Lilac Vine,Vine,Spring;Winter,7-12 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+610,Helleborus orientalis,Lenten Rose,Perennial,Spring,1-3 ft,Sun;Part Shade,,Low;Moderate,Sidewalk;Garden,,,,,,,,350,800
+611,Helianthemum 'Apricot',Apricot Sunrose,Shrub (evergreen),Spring,< 1 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+612,Helianthemum 'Belgravia Rose',,Shrub (evergreen),Spring,< 1 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+613,Heuchera maxima,Island Alum Root,Perennial,Spring;Summer,1-3 ft,Part shade;Shade,Sand;Loam,Low,Sidewalk;Roof,,,,,,100,350,,
+614,Heuchera 'Santa Ana Cardinal',Coral Bell hybrids,Perennial,Spring;Summer,1-3 ft,Part shade;Shade,,None,Sidewalk;Garden,,,,,,0,0,,
+615,Heuchera sanguinea ,Coral Bells,Perennial,Summer,1-3 ft,Part shade;Shade,Rock,Low,Sidewalk;Garden,,,,,,100,350,,
+616,Hyacinthoides hispanica,Spanish squill,Perennial,Spring,1-3 ft,Sun;Part Shade;Shade,,Low,Sidewalk;Garden,,,,,,100,350,0,800
+617,Juncus effusus var. brunneus,Green Rush,Grass,Summer,1-3 ft,Sun;Part Shade,Sand;Loam,Moderate,Sidewalk;Garden,,,,,,350,600,350,800
+618,Kalanchoe orgyalis,Copper Spoons,Succulent,Winter,4-6 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+619,Kalanchoe thyrsiflora,Paddle Plant,Succulent,Spring;Winter,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+620,Phacelia minor,California bluebell,Annual,Spring,1-3 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+621,Calamintha spp.,Calamint,Perennial,Summer,1-3 ft,Sun;Shade,,None,Garden,,,,,,0,0,0,750
+622,Caryopteris x clandonensis,"Blue Mist, Blue Beard",Perennial,Summer,1-3 ft,Sun,,None,Garden,,,,,,0,0,500,800
+623,Duranta erecta,Skyflower,Perennial,Summer,1-3 ft,Sun;Shade,Loam;Sand;Clay,Low,Garden,,,,,,100,350,0,750
+624,Echinacea purpurea,Purple Coneflower,Perennial,Summer,1-3 ft,Sun;Shade,Loam;Sand;Clay,None,Garden,,,,,,0,0,0,750
+625,Eriogonum nudum,Naked Buckwheat,Perennial,Summer,1-3 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+626,Gaillardia 'Oranges & Lemons',Oranges & Lemons,Perennial,Summer,1-3 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+627,Helenium 'Mardi Gras',Mardi Gras,Perennial,Summer,1-3 ft,Sun,Loam;Sand;Clay,Low,Garden,,,,,,100,350,500,800
+628,Madia elegans densiflora,Elegant Madia,Annual,Summer,1-3 ft,Sun;Shade,Loam;Sand,None,Garden,,,,,,0,0,0,750
+629,Mentha spicata,Spearmint,Perennial,Summer;Fall,1-3 ft,,Loam;Sand,Moderate,Garden,,,,,,350,600,,
+630,Monardella odoratissima,Mountain Monardella,Perennial,Summer,1-3 ft,Sun,Loam;Sand,Low,Garden,,,,,,100,350,500,800
+631,Scabiosa atropurpurea,Pincushion flower,Perennial,Summer,1-3 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+632,Eriodictyon californicum,"California yerba santa,  Yerba santa ",Shrub (evergreen),Summer,7-12 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+633,Oemleria cerasiformis,"Indian plum,  Oso berry ",Shrub (deciduous),Spring;Summer,4-6 ft,Sun,Loam;Sand,Low,Garden,,,,,,100,350,500,800
+634,Baccharis pilularis 'Twin Peaks',Coyotebrush prostrate form,Shrub (evergreen),,1-3 ft,Sun,Clay;Loam;Sand;Rock,None,Garden;Sidewalk;Roof,,,,,,0,0,500,800
+635,Achillea filipendulina,Fernleaf Yarrow,Perennial,Summer;Fall,1-3 ft,Sun,Clay;Loam;Sand;Rock,Low,Sidewalk;Garden,,,,,,100,350,500,800
+636,Arctotis hybrids,"	African Daisy",Perennial,Spring;Summer,< 1 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+637,Festuca amethystina,tufted fescue,Grass,Summer,1-3 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+638,Cedrela fissilis,"Brazilian Cedarwood  
+Brazilian Cedarwood",Tree (deciduous),Spring;Summer,> 24 ft,Sun;Shade,,Moderate,Sidewalk,,,,,,350,600,0,750
+639,Amaryllis belladonna,Naked Lady,Perennial,Summer,1-3 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+640,Sidalcea malviflora,Checkerbloom,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,clay;loam,None,Garden;Roof,Attracts West Coast Painted Lady (Vanessa annabella).,,,,,0,0,350,800
+641,Erysimum  'Bowles Mauve',Bowles Mauve Wallflower,Perennial,Spring;Summer;Fall,4-6 ft,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+642,Phlomis fruticosa,"	Jerusalem Sage",Shrub (evergreen),Spring;Summer,4-6 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+643,Pelargonium peltatum,Ivy Geranium,Perennial,Spring;Summer;Fall;Winter,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+644,Grevillea robusta,Silk oak,Tree (evergreen),Summer,Full Grown Tree,Sun,Clay;Loam;Sand,Low,Garden,,,,,,100,350,500,800
+645,Acer circinatum,Vine maple tree,Tree (evergreen),Spring,Full Grown Tree,Part shade;Shade,Loam,Moderate,Garden,,,,,,350,600,,
+646,Pleuropogon californicus,semaphore grass,Grass,Spring;Summer,1-3 ft,Sun;Shade,Clay;Loam,Moderate,Garden,,,,,,350,600,0,750
+647,Arctostaphylos 'Emerald Carpet',Emerald Carpet,Shrub (evergreen),Spring;Winter,1-3 ft,Sun;Part Shade,Loam;Sand,None,Garden,,,,,,0,0,350,800
+648,Ceiba speciosa-Chorisia speciosa,Silk Floss Tree,Tree (deciduous),Winter,> 24 ft,Sun,Clay;Loam;Sand,Low,Sidewalk,,,,,,100,350,500,800
+649,Cistus x skanbergii,Pink rockrose,Shrub (evergreen),Spring,1-3 ft,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+650,Pelargonium graveolens,"Scented Geranium
+  Scented Geranium",Perennial,Spring,1-3 ft,Sun,Loam;Sand;Clay,None,Garden,,,,,,0,0,500,800
+651,Euphorbia myrsinites,Myrtle Spurge,Succulent,Spring;Winter,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+652,Phacelia campanularia,"CA. Desert Bluebells
+Bluebells",Annual,Spring,1-3 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+653,Lavandula x. intermedia 'Grosso',Purple Lavander,Shrub (evergreen),Summer;Fall,1-3 ft,Sun,Clay;Loam;Sand,None,Sidewalk;Garden,,,,,,0,0,500,800
+654,Populus fremontii,Fremont's Cottonwood,Shrub (deciduous),Spring,Full Grown Tree,Sun,Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+655,Dietes spp.,fortnight lily,Perennial,Spring;Summer;Fall,1-3 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,,,,,100,350,350,800
+656,Daphne odora,Winter Daphne,Shrub (evergreen),,4-6 ft,Part Shade,,Low,Sidewalk;Garden,All parts of this species are toxic and may be fatal if ingested.,,,,,100,350,100,350
+657,Festuca glauca,Common Blue Fescue,Grass,Summer,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+658,Helleborus foetidus,Bear's foot hellebore,Perennial,Spring,1-3 ft,Sun;Part Shade,Loam,Low,Sidewalk;Garden,,,,,,100,350,350,800
+659,Coreopsis lanceolata,"Lanceleaf Tickseed
+Tickseed",Perennial,Spring,1-3 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+660,Prunus lyonii,Catalina Cherry,Tree (evergreen),Spring,13-24 ft,Sun;Shade,,Low,Sidewalk,,,,,,100,350,0,750
+661,Santolina rosmarinifolia,Green Santolina,Shrub (evergreen),Spring,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+662,Zelkova serrata,Japanese zelkova,Tree (deciduous),,> 24 ft,Sun;Part Shade,,,Sidewalk,,,,,,,,350,800
+663,Ulmus wilsoniana ‘Prospector’,Wilson Elm,Tree (deciduous),Spring,> 24 ft,,,,Sidewalk,,,,,,,,,
+664,Festuca spp.,Fescue,Grass,,1-3 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+665,Pittosporum tobira,mock orange,Shrub (evergreen),Spring,7-12 ft,Sun;Part Shade,Clay;Loam;Sand,Low,Garden,,,,,,100,350,350,800
+666,Artemisia schmidtiana 'Silvermound',"
+Angel's Hair""",Perennial,Summer,1-3 ft,Sun,Sand;Loam;Clay,Low,Sidewalk;Garden,,,,,,100,350,500,800
+667,Magnolia virginiana,Sweet bay magnolia,Tree,Summer,Full Grown Tree,Sun;Part Shade,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,350,800
+668,Quercus macrocarpa,bur oak,Tree (deciduous),Spring,Full Grown Tree,Sun,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+669,Clematis armandii,Evergreen Clematis,Vine,Spring;Winter,7-12 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+670,Kniphofia 'Dwarf Yellow',Poker Plant,Perennial,Spring;Summer,1-3 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+671,Calystegia purpurata,morning glory,Vine,Spring;Summer;Fall,7-12 ft,Sun;Part Shade,Sand,None,Garden,,,,,,0,0,350,800
+672,Hesperaloe parviflora,Yellow/Red Yucca,Perennial,Spring;Summer,4-6 ft,Sun;Part shade,Sand,None,Garden,,,,,,0,0,,
+673,Thymus pseudolanuginosus,Wooly thyme,Perennial,Summer,< 1 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden,,,,,,0,0,350,800
+674,Carissa macrocarpa,Natal Plum,Shrub (evergreen),,4-6 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+675,Acacia cognata 'Cousin Itt',Bower Wattle,Shrub (evergreen),Spring,1-3 ft,Sun;Shade,,Low,Garden,,,,,,100,350,0,750
+676,Nolina bigelovii,Bear Grass,Shrub (evergreen),Summer,4-6 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+677,Sedum dendroideum,"Bush Sedum  
+ Bush Sedum",Succulent,Spring;Winter,1-3 ft,Sun;Part Shade,Sand;Loam,None,Roof;Sidewalk;Garden,,,,,,0,0,350,800
+678,Diospyros virginiana,persimmon,Tree (deciduous),Summer,> 24 ft,Sun;Part Shade;Shade,Clay;Loam;sand,Low,Garden,,,,,,100,350,0,800
+679,Lychnis coronaria            ,Rose Campion,Perennial,Summer,1-3 ft,Sun;Part shade,Clay;Sand;Loam;Rock,Low,Garden,,,,,,100,350,,
+680,Lavandula multifida,Fern Leaf Lavender,Shrub (evergreen),Summer;Fall,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+681,Myrtus communis compacta,Dwarf Myrtle,Shrub (evergreen),Spring;summer,4-6 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+682,Thymus 'Victor Reiter',Victor Reiter Thyme,Perennial,Summer,< 1 ft,Sun;Part Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+683,Polypodium scouleri,leather leaf fern,Fern,,< 1 ft,Part shade;Shade,Clay;Loam;Sand,Low,Garden,,,,,,100,350,,
+684,Stachys byzantina,Lambs ears,Perennial,Spring,1-3 ft,Sun;Part Shade,Clay;Loam;Sand,None,Garden,,,,,,0,0,350,800
+685,Dudleya spp.,Live Forever,Succulent,,Varies,Sun,,Low,Sidewalk,,,,,,100,350,500,800
+686,Gaura lindheimeri,Butterfly Gaura,Perennial,Summer;Fall,1-3 ft,Sun,Sand;Loam,Moderate,Sidewalk;Garden,,,,,,350,600,500,800
+687,Leucadendron hybrids,Leucadendron,Shrub (evergreen),Spring;Summer;Winter,7-12 ft,Sun,,Low,Garden,,,,,,100,350,500,800
+688,Tanacetum haradjanii,Silver Tansy,Perennial,Summer,< 1 ft,Sun,Sand;Loam;Clay,Low,Sidewalk;Garden,,,,,,100,350,500,800
+689,Salvia chamaedryoides,"Germander Sage  
+ Germander Sage  
+ Germander Sage",Perennial,Spring;Summer;Fall;Winter,1-3 ft,Sun;Shade,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,0,750
+690,Monardella spp.,Scarlet Monardella,Perennial,,1-3 ft,Sun,,None,Garden,,,,,,0,0,500,800
+691,Festuca muelleri,Mueller's Fescue,Grass,Summer,< 1 ft,Sun;Part Shade,,,Sidewalk;Garden,,,,,,,,350,800
+692,Acer x freemanii,"Autumn Blaze Maple, Freeman Maple",Tree (deciduous),Spring,> 24 ft,Sun,,Moderate,Sidewalk,,,,,,350,600,500,800
+693,Woodwardia frimbiata,Giant chain fern,Fern,,4-6 ft,Part shade;Shade,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,,
+694,Fuchsia procumbens,Prostrate fuschia,Shrub (evergreen),Summer;Fall,< 1 ft,Part Shade,,,Sidewalk;Garden,,,,,,,,100,350
+695,Cerastium tomentosum,Snow-in-Summer,Perennial,Summer,< 1 ft,Sun;Part Shade,Sand;Rock;Loam,None,Sidewalk;Garden,,,,,,0,0,350,800
+696,Schoenoplectus americanus,three square,Perennial,Summer,4-6 ft,Sun,Clay;Loam,Moderate,Garden,,,,,,350,600,500,800
+697,Calamagrostis x acutiflora,Feather Reed Grass,Grass,Summer,4-6 ft,Sun;Part shade,,Low,Garden,,,,,,100,350,,
+698,Lepechinia calycina,"White Pitcher Sage, Woodbalm, Pitcher Sage",Shrub (evergreen),Spring;Summer,7-12 ft,Sun,Loam;Sand,None,Garden,,,,,,0,0,500,800
+699,Jasminum polyanthum,Pink Jasmine,Vine,Spring;Winter,13-24 ft,Sun;Shade,,Low,Sidewalk;Garden,,,,,,100,350,0,750
+700,Miscanthus sinensis,"	Japanese silver grass",Grass,Summer,1-3 ft,Sun,Clay;Loam;Sand,Moderate,Garden,,,,,,350,600,500,800
+701,Chondropetalum tectorum,cape rush,Grass,Spring;Summer;Fall;Winter,4-6 ft,Sun;Part Shade,Clay;Loam,Low,Garden,,,,,,100,350,350,800
+702,Alyogyne  huegelii,Blue Hibiscus,Shrub (evergreen),Spring;Summer;Fall;Winter,4-6 ft,Sun,,Low,Sidewalk;Garden,,,,,,100,350,500,800
+703,Macfadyena unguis-cati,Yellow Trumpet Vine,Vine,Summer,> 24 ft,Sun;Part Shade,,,Sidewalk;Garden,,,,,,,,350,800
+704,Correa spp.,Australian Fuchsia,Shrub (evergreen),,4-6 ft,Sun;Part Shade,,Low,Garden,,,,,,100,350,350,800
+705,Abutilon palmeri,Indian Mallow,Shrub (evergreen),Spring,4-6 ft,Sun,Sand;Loam,None,Garden,,,,,,0,0,500,800
+706,Salvia coahuilensis,Coahuila Sage,Perennial,Summer;Fall,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+707,Echeveria pumila glauca,Hens and Chicks,Succulent,summer,< 1 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+708,Teucrium x lucidrys,Wall Germander,Perennial,Summer,1-3 ft,Sun,Clay;Loam;Sand;Rock,None,Garden,,,,,,0,0,500,800
+709,Cistus salvifolius 'Prostratus',Sageleaf Rockrose,Shrub (evergreen),Spring,1-3 ft,Sun,Sand;Loam,Low,Sidewalk;Garden,,,,,,100,350,500,800
+710,Acanthus mollis,Bear's Breech,Perennial,Spring;Summer,1-3 ft,Part shade;Shade,,Low,Sidewalk;Garden,,,,,,100,350,,
+711,Knifphofia galpinii 'Orange Flame',Orange Flame Poker Plant,Perennial,Spring;Summer,1-3 ft,Sun,Sand;Loam,None,Sidewalk;Garden,,,,,,0,0,500,800
+712,Helianthus 'Lemon Queen',Lemon Queen,Perennial,Summer,1-3 ft,Sun,Clay,Low,Garden,,,,,,100,350,500,800
+713,Escallonia 'Compakta',,Shrub (evergreen),Spring;Fall,1-3 ft,Sun;Part Shade,,Low,Sidewalk;Garden,,,,,,100,350,350,800
+713,Basil,Basil,Grass,Spring;Summer;Fall,1-3ft,Sun;Part Shade,Loam,Moderate,Sidewalk;Garden,,60,70,24,28,350,600,350,800
+714,Ananas,Ananas,Test,Test,Test,Test,Test,Test,Test,Test,50,60,6,15,320,700,350,800
